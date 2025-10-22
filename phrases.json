@@ -1,0 +1,8059 @@
+[
+  {
+    "id": 1,
+    "japanese": "赤い花が好きです。",
+    "furigana": "あかい はなが すきです。",
+    "translation": "Eu gosto de flores vermelhas.",
+    "keywords": [
+      "花",
+      "赤",
+      "きです",
+      "好"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 2,
+    "japanese": "秋は涼しくて気持ちいいですね。",
+    "furigana": "あきは すずしくて きもちいいですね。",
+    "translation": "O outono é fresco e agradável, né?",
+    "keywords": [
+      "しくて",
+      "秋",
+      "ちいいですね",
+      "気持",
+      "涼"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 3,
+    "japanese": "今日は雨が降っています。",
+    "furigana": "きょうは あめが ふっています。",
+    "translation": "Hoje está chovendo.",
+    "keywords": [
+      "降",
+      "っています",
+      "雨",
+      "今日"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 4,
+    "japanese": "飴をください。",
+    "furigana": "あめを ください。",
+    "translation": "Me dê um doce, por favor.",
+    "keywords": [
+      "をください",
+      "飴"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 5,
+    "japanese": "姉は大学で勉強しています。",
+    "furigana": "あねは だいがくで べんきょうしています。",
+    "translation": "Minha irmã estuda na universidade.",
+    "keywords": [
+      "姉",
+      "大学",
+      "勉強",
+      "しています"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 6,
+    "japanese": "兄の部屋は二階にあります。",
+    "furigana": "あにの へやは にかいに あります。",
+    "translation": "O quarto do meu irmão fica no segundo andar.",
+    "keywords": [
+      "にあります",
+      "部屋",
+      "二階",
+      "兄"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 7,
+    "japanese": "青い空が綺麗だ。",
+    "furigana": "あおい そらが きれいだ。",
+    "translation": "O céu azul está bonito.",
+    "keywords": [
+      "綺麗",
+      "空",
+      "青"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 8,
+    "japanese": "新しいアパートに引っ越しました。",
+    "furigana": "あたらしい アパートに ひっこしました。",
+    "translation": "Me mudei para um novo apartamento.",
+    "keywords": [
+      "しました",
+      "引",
+      "新",
+      "越",
+      "しいアパートに"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 9,
+    "japanese": "朝は何時に起きますか。",
+    "furigana": "あさは なんじに おきますか。",
+    "translation": "A que horas você acorda de manhã?",
+    "keywords": [
+      "起",
+      "何時",
+      "朝",
+      "きますか"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 10,
+    "japanese": "朝ご飯、まだ食べてないよ。",
+    "furigana": "あさごはん、まだ たべてないよ。",
+    "translation": "Ainda não tomei café da manhã.",
+    "keywords": [
+      "べてないよ",
+      "飯",
+      "食",
+      "朝",
+      "まだ"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 11,
+    "japanese": "明後日は休みです。",
+    "furigana": "あさっては やすみです。",
+    "translation": "Depois de amanhã é folga.",
+    "keywords": [
+      "休",
+      "明後日",
+      "みです"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 12,
+    "japanese": "足が痛くて歩けません。",
+    "furigana": "あしが いたくて あるけません。",
+    "translation": "Meu pé dói e não consigo andar.",
+    "keywords": [
+      "くて",
+      "けません",
+      "歩",
+      "痛",
+      "足"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 13,
+    "japanese": "明日、映画見に行こう！",
+    "furigana": "あした、えいが みに いこう！",
+    "translation": "Vamos ver um filme amanhã!",
+    "keywords": [
+      "行",
+      "明日映画見",
+      "こう"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 14,
+    "japanese": "頭が痛いので薬をください。",
+    "furigana": "あたまが いたいので くすりを ください。",
+    "translation": "Estou com dor de cabeça, então me dê remédio por favor.",
+    "keywords": [
+      "頭",
+      "薬",
+      "いので",
+      "痛",
+      "をください"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 15,
+    "japanese": "後で電話します。",
+    "furigana": "あとで でんわします。",
+    "translation": "Ligo depois.",
+    "keywords": [
+      "後",
+      "電話",
+      "します"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 16,
+    "japanese": "晩ご飯は何を食べますか。",
+    "furigana": "ばんごはんは なにを たべますか。",
+    "translation": "O que vai comer no jantar?",
+    "keywords": [
+      "べますか",
+      "飯",
+      "晩",
+      "何",
+      "食"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 17,
+    "japanese": "この番号に電話してください。",
+    "furigana": "この ばんごうに でんわして ください。",
+    "translation": "Ligue para este número, por favor.",
+    "keywords": [
+      "この",
+      "番号",
+      "電話",
+      "してください"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 18,
+    "japanese": "バス、もう来た？",
+    "furigana": "バス、もう きた？",
+    "translation": "O ônibus já chegou?",
+    "keywords": [
+      "バスもう",
+      "来"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 19,
+    "japanese": "バターを買い忘れました。",
+    "furigana": "バターを かいわすれました。",
+    "translation": "Esqueci de comprar manteiga.",
+    "keywords": [
+      "忘",
+      "買",
+      "れました",
+      "バターを"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 20,
+    "japanese": "ベッドで本を読んでいます。",
+    "furigana": "ベッドで ほんを よんでいます。",
+    "translation": "Estou lendo um livro na cama.",
+    "keywords": [
+      "本",
+      "ベッドで",
+      "読",
+      "んでいます"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 21,
+    "japanese": "毎日勉強するのは大変だ。",
+    "furigana": "まいにち べんきょうするのは たいへんだ。",
+    "translation": "Estudar todo dia é difícil.",
+    "keywords": [
+      "毎日勉強",
+      "大変",
+      "するのは"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 22,
+    "japanese": "ボールペンを貸してください。",
+    "furigana": "ボールペンを かして ください。",
+    "translation": "Empreste-me uma caneta, por favor.",
+    "keywords": [
+      "貸",
+      "してください",
+      "ボールペンを"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 23,
+    "japanese": "このボタンを押してください。",
+    "furigana": "この ボタンを おして ください。",
+    "translation": "Aperte este botão, por favor.",
+    "keywords": [
+      "押",
+      "このボタンを",
+      "してください"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 24,
+    "japanese": "帽子、どこ置いた？",
+    "furigana": "ぼうし、どこ おいた？",
+    "translation": "Onde você colocou o boné?",
+    "keywords": [
+      "どこ",
+      "置",
+      "いた",
+      "帽子"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 25,
+    "japanese": "この文章の意味が分かりません。",
+    "furigana": "この ぶんしょうの いみが わかりません。",
+    "translation": "Não entendo o significado desta frase.",
+    "keywords": [
+      "文章",
+      "この",
+      "分",
+      "意味",
+      "かりません"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 26,
+    "japanese": "豚肉と野菜を買いました。",
+    "furigana": "ぶたにくと やさいを かいました。",
+    "translation": "Comprei carne de porco e vegetais.",
+    "keywords": [
+      "買",
+      "野菜",
+      "いました",
+      "豚肉"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 27,
+    "japanese": "病院は駅の近くにあります。",
+    "furigana": "びょういんは えきの ちかくに あります。",
+    "translation": "O hospital fica perto da estação.",
+    "keywords": [
+      "駅",
+      "くにあります",
+      "病院",
+      "近"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 28,
+    "japanese": "病気で学校を休んだ。",
+    "furigana": "びょうきで がっこうを やすんだ。",
+    "translation": "Faltei na escola por estar doente.",
+    "keywords": [
+      "休",
+      "病気",
+      "学校",
+      "んだ"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 29,
+    "japanese": "茶色の靴を履いています。",
+    "furigana": "ちゃいろの くつを はいています。",
+    "translation": "Estou usando sapatos marrons.",
+    "keywords": [
+      "靴",
+      "茶色",
+      "いています",
+      "履"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 30,
+    "japanese": "茶碗を三つください。",
+    "furigana": "ちゃわんを みっつ ください。",
+    "translation": "Me dê três tigelas, por favor.",
+    "keywords": [
+      "茶碗",
+      "つください",
+      "三"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 31,
+    "japanese": "父は会社で働いています。",
+    "furigana": "ちちは かいしゃで はたらいています。",
+    "translation": "Meu pai trabalha em uma empresa.",
+    "keywords": [
+      "会社",
+      "いています",
+      "父",
+      "働"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 32,
+    "japanese": "地下鉄で行きましょう。",
+    "furigana": "ちかてつで いきましょう。",
+    "translation": "Vamos de metrô.",
+    "keywords": [
+      "きましょう",
+      "行",
+      "地下鉄"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 33,
+    "japanese": "地図を見せてください。",
+    "furigana": "ちずを みせて ください。",
+    "translation": "Mostre-me o mapa, por favor.",
+    "keywords": [
+      "せてください",
+      "見",
+      "地図"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 34,
+    "japanese": "台所で母が料理しています。",
+    "furigana": "だいどころで ははが りょうりしています。",
+    "translation": "Minha mãe está cozinhando na cozinha.",
+    "keywords": [
+      "しています",
+      "母",
+      "台所",
+      "料理"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 35,
+    "japanese": "大学の試験は難しかったです。",
+    "furigana": "だいがくの しけんは むずかしかったです。",
+    "translation": "A prova da universidade foi difícil.",
+    "keywords": [
+      "大学",
+      "しかったです",
+      "試験",
+      "難"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 36,
+    "japanese": "出口はどこですか。",
+    "furigana": "でぐちは どこですか。",
+    "translation": "Onde fica a saída?",
+    "keywords": [
+      "出口",
+      "はどこですか"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 37,
+    "japanese": "電気を消してください。",
+    "furigana": "でんきを けして ください。",
+    "translation": "Apague a luz, por favor.",
+    "keywords": [
+      "電気",
+      "消",
+      "してください"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 38,
+    "japanese": "電車、間に合った！",
+    "furigana": "でんしゃ、まにあった！",
+    "translation": "Consegui pegar o trem!",
+    "keywords": [
+      "電車間",
+      "った",
+      "合"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 39,
+    "japanese": "電話番号を教えてください。",
+    "furigana": "でんわばんごうを おしえて ください。",
+    "translation": "Me diga seu número de telefone, por favor.",
+    "keywords": [
+      "教",
+      "電話番号",
+      "えてください"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 40,
+    "japanese": "デパートで服を買いました。",
+    "furigana": "デパートで ふくを かいました。",
+    "translation": "Comprei roupas no shopping.",
+    "keywords": [
+      "デパートで",
+      "買",
+      "服",
+      "いました"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 41,
+    "japanese": "ドア、開けて。",
+    "furigana": "ドア、あけて。",
+    "translation": "Abre a porta.",
+    "keywords": [
+      "開",
+      "けて",
+      "ドア"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 42,
+    "japanese": "どなたですか。",
+    "furigana": "どなたですか。",
+    "translation": "Quem é?",
+    "keywords": [
+      "どなたですか"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 43,
+    "japanese": "動物が大好きです。",
+    "furigana": "どうぶつが だいすきです。",
+    "translation": "Adoro animais.",
+    "keywords": [
+      "大好",
+      "動物",
+      "きです"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 44,
+    "japanese": "土曜日は休みですか。",
+    "furigana": "どようびは やすみですか。",
+    "translation": "Sábado é folga?",
+    "keywords": [
+      "土曜日",
+      "みですか",
+      "休"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 45,
+    "japanese": "この絵は綺麗ですね。",
+    "furigana": "この えは きれいですね。",
+    "translation": "Esta pintura é bonita, não é?",
+    "keywords": [
+      "綺麗",
+      "この",
+      "絵",
+      "ですね"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 46,
+    "japanese": "ええ、そうです。",
+    "furigana": "ええ、そうです。",
+    "translation": "Sim, está correto.",
+    "keywords": [
+      "ええそうです"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 47,
+    "japanese": "映画を見に行きませんか。",
+    "furigana": "えいがを みに いきませんか。",
+    "translation": "Quer ir ver um filme?",
+    "keywords": [
+      "行",
+      "映画",
+      "見",
+      "きませんか"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 48,
+    "japanese": "映画館は駅の前にあります。",
+    "furigana": "えいがかんは えきの まえに あります。",
+    "translation": "O cinema fica em frente à estação.",
+    "keywords": [
+      "駅",
+      "前",
+      "にあります",
+      "映画館"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 49,
+    "japanese": "英語の勉強は楽しいです。",
+    "furigana": "えいごの べんきょうは たのしいです。",
+    "translation": "Estudar inglês é divertido.",
+    "keywords": [
+      "しいです",
+      "勉強",
+      "楽",
+      "英語"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 50,
+    "japanese": "駅まで歩いて十分です。",
+    "furigana": "えきまで あるいて じゅっぷんです。",
+    "translation": "São dez minutos a pé até a estação.",
+    "keywords": [
+      "いて",
+      "まで",
+      "です",
+      "歩",
+      "十分"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 51,
+    "japanese": "鉛筆、貸して。",
+    "furigana": "えんぴつ、かして。",
+    "translation": "Me empresta um lápis.",
+    "keywords": [
+      "して",
+      "鉛筆貸"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 52,
+    "japanese": "エレベーターで五階まで行きます。",
+    "furigana": "エレベーターで ごかいまで いきます。",
+    "translation": "Vou até o quinto andar de elevador.",
+    "keywords": [
+      "行",
+      "きます",
+      "まで",
+      "五階",
+      "エレベーターで"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 53,
+    "japanese": "フィルムが切れました。",
+    "furigana": "フィルムが きれました。",
+    "translation": "O filme acabou.",
+    "keywords": [
+      "切",
+      "フィルムが",
+      "れました"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 54,
+    "japanese": "フォークとナイフをください。",
+    "furigana": "フォークと ナイフを ください。",
+    "translation": "Me dê um garfo e uma faca, por favor.",
+    "keywords": [
+      "フォークとナイフをください"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 55,
+    "japanese": "新しい服が欲しいです。",
+    "furigana": "あたらしい ふくが ほしいです。",
+    "translation": "Quero roupas novas.",
+    "keywords": [
+      "しい",
+      "欲",
+      "新",
+      "服",
+      "しいです"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 56,
+    "japanese": "二人で行きましょう。",
+    "furigana": "ふたりで いきましょう。",
+    "translation": "Vamos nós dois.",
+    "keywords": [
+      "きましょう",
+      "二人",
+      "行"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 57,
+    "japanese": "りんごを二つください。",
+    "furigana": "りんごを ふたつ ください。",
+    "translation": "Me dê duas maçãs, por favor.",
+    "keywords": [
+      "つください",
+      "りんごを",
+      "二"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 58,
+    "japanese": "二日に東京に行きます。",
+    "furigana": "ふつかに とうきょうに いきます。",
+    "translation": "Vou para Tóquio no dia dois.",
+    "keywords": [
+      "東京",
+      "行",
+      "きます",
+      "二日"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 59,
+    "japanese": "封筒に切手を貼りました。",
+    "furigana": "ふうとうに きってを はりました。",
+    "translation": "Colei o selo no envelope.",
+    "keywords": [
+      "切手",
+      "りました",
+      "貼",
+      "封筒"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 60,
+    "japanese": "冬は寒くて嫌いだ。",
+    "furigana": "ふゆは さむくて きらいだ。",
+    "translation": "Não gosto do inverno porque é frio.",
+    "keywords": [
+      "嫌",
+      "いだ",
+      "寒",
+      "くて",
+      "冬"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 61,
+    "japanese": "外国に行ってみたいです。",
+    "furigana": "がいこくに いって みたいです。",
+    "translation": "Quero tentar ir para o exterior.",
+    "keywords": [
+      "行",
+      "ってみたいです",
+      "外国"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 62,
+    "japanese": "外国人の友達がいます。",
+    "furigana": "がいこくじんの ともだちが います。",
+    "translation": "Tenho amigos estrangeiros.",
+    "keywords": [
+      "がいます",
+      "友達",
+      "外国人"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 63,
+    "japanese": "学校は九時に始まります。",
+    "furigana": "がっこうは くじに はじまります。",
+    "translation": "A escola começa às nove horas.",
+    "keywords": [
+      "九時",
+      "始",
+      "学校",
+      "まります"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 64,
+    "japanese": "学生の時、よく遊んだ。",
+    "furigana": "がくせいの とき、よく あそんだ。",
+    "translation": "Quando era estudante, brincava muito.",
+    "keywords": [
+      "よく",
+      "学生",
+      "時",
+      "遊",
+      "んだ"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 65,
+    "japanese": "玄関で靴を脱いでください。",
+    "furigana": "げんかんで くつを ぬいで ください。",
+    "translation": "Tire os sapatos na entrada, por favor.",
+    "keywords": [
+      "靴",
+      "いでください",
+      "玄関",
+      "脱"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 66,
+    "japanese": "元気ですか。",
+    "furigana": "げんきですか。",
+    "translation": "Como você está?",
+    "keywords": [
+      "ですか",
+      "元気"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 67,
+    "japanese": "月曜日は忙しいです。",
+    "furigana": "げつようびは いそがしいです。",
+    "translation": "Segunda-feira é ocupada.",
+    "keywords": [
+      "しいです",
+      "忙",
+      "月曜日"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 68,
+    "japanese": "銀行は三時に閉まります。",
+    "furigana": "ぎんこうは さんじに しまります。",
+    "translation": "O banco fecha às três horas.",
+    "keywords": [
+      "三時",
+      "閉",
+      "まります",
+      "銀行"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 69,
+    "japanese": "ギターを弾くのが好きです。",
+    "furigana": "ギターを ひくのが すきです。",
+    "translation": "Gosto de tocar violão.",
+    "keywords": [
+      "くのが",
+      "きです",
+      "弾",
+      "ギターを",
+      "好"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 70,
+    "japanese": "五時に会いましょう。",
+    "furigana": "ごじに あいましょう。",
+    "translation": "Vamos nos encontrar às cinco.",
+    "keywords": [
+      "五時",
+      "いましょう",
+      "会"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 71,
+    "japanese": "午後は暇ですか。",
+    "furigana": "ごごは ひまですか。",
+    "translation": "Você está livre à tarde?",
+    "keywords": [
+      "暇",
+      "午後",
+      "ですか"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 72,
+    "japanese": "ご飯、まだ？",
+    "furigana": "ごはん、まだ？",
+    "translation": "A comida ainda não está pronta?",
+    "keywords": [
+      "まだ",
+      "飯"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 73,
+    "japanese": "午前中に買い物をします。",
+    "furigana": "ごぜんちゅうに かいものを します。",
+    "translation": "Faço compras de manhã.",
+    "keywords": [
+      "をします",
+      "買",
+      "午前中",
+      "物"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 74,
+    "japanese": "百グラムください。",
+    "furigana": "ひゃくグラム ください。",
+    "translation": "Me dê cem gramas, por favor.",
+    "keywords": [
+      "グラムください",
+      "百"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 75,
+    "japanese": "牛肉は高いですね。",
+    "furigana": "ぎゅうにくは たかいですね。",
+    "translation": "Carne bovina é cara, né?",
+    "keywords": [
+      "いですね",
+      "高",
+      "牛肉"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 76,
+    "japanese": "牛乳を飲みますか。",
+    "furigana": "ぎゅうにゅうを のみますか。",
+    "translation": "Você bebe leite?",
+    "keywords": [
+      "飲",
+      "牛乳",
+      "みますか"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 77,
+    "japanese": "歯が痛いです。",
+    "furigana": "はが いたいです。",
+    "translation": "Meu dente dói.",
+    "keywords": [
+      "歯",
+      "痛",
+      "いです"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 78,
+    "japanese": "八時に起きました。",
+    "furigana": "はちじに おきました。",
+    "translation": "Acordei às oito horas.",
+    "keywords": [
+      "起",
+      "きました",
+      "八時"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 79,
+    "japanese": "葉書を出しました。",
+    "furigana": "はがきを だしました。",
+    "translation": "Enviei um postal.",
+    "keywords": [
+      "出",
+      "しました",
+      "葉書"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 80,
+    "japanese": "母は優しい人です。",
+    "furigana": "ははは やさしい ひとです。",
+    "translation": "Minha mãe é uma pessoa gentil.",
+    "keywords": [
+      "しい",
+      "母",
+      "優",
+      "です",
+      "人"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 81,
+    "japanese": "はい、分かりました。",
+    "furigana": "はい、わかりました。",
+    "translation": "Sim, entendi.",
+    "keywords": [
+      "分",
+      "かりました",
+      "はい"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 82,
+    "japanese": "灰皿はありますか。",
+    "furigana": "はいざらは ありますか。",
+    "translation": "Tem cinzeiro?",
+    "keywords": [
+      "はありますか",
+      "灰皿"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 83,
+    "japanese": "この箱は重いです。",
+    "furigana": "この はこは おもいです。",
+    "translation": "Esta caixa é pesada.",
+    "keywords": [
+      "重",
+      "いです",
+      "この",
+      "箱"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 84,
+    "japanese": "三時半に会いましょう。",
+    "furigana": "さんじはんに あいましょう。",
+    "translation": "Vamos nos encontrar às três e meia.",
+    "keywords": [
+      "いましょう",
+      "会",
+      "三時半"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 85,
+    "japanese": "花を買いました。",
+    "furigana": "はなを かいました。",
+    "translation": "Comprei flores.",
+    "keywords": [
+      "花",
+      "買",
+      "いました"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 86,
+    "japanese": "鼻が詰まっています。",
+    "furigana": "はなが つまっています。",
+    "translation": "Meu nariz está entupido.",
+    "keywords": [
+      "まっています",
+      "鼻",
+      "詰"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 87,
+    "japanese": "面白い話を聞きました。",
+    "furigana": "おもしろい はなしを ききました。",
+    "translation": "Ouvi uma história interessante.",
+    "keywords": [
+      "話",
+      "聞",
+      "きました",
+      "面白"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 88,
+    "japanese": "半分ください。",
+    "furigana": "はんぶん ください。",
+    "translation": "Me dê metade, por favor.",
+    "keywords": [
+      "半分",
+      "ください"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 89,
+    "japanese": "ハンカチを忘れた。",
+    "furigana": "ハンカチを わすれた。",
+    "translation": "Esqueci o lenço.",
+    "keywords": [
+      "忘",
+      "ハンカチを",
+      "れた"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 90,
+    "japanese": "今日は晴れですね。",
+    "furigana": "きょうは はれですね。",
+    "translation": "Hoje está ensolarado, né?",
+    "keywords": [
+      "晴",
+      "れですね",
+      "今日"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 91,
+    "japanese": "春は花が咲きます。",
+    "furigana": "はるは はなが さきます。",
+    "translation": "Na primavera as flores desabrocham.",
+    "keywords": [
+      "花",
+      "きます",
+      "咲",
+      "春"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 92,
+    "japanese": "箸で食べてください。",
+    "furigana": "はしで たべて ください。",
+    "translation": "Coma com pauzinhos, por favor.",
+    "keywords": [
+      "食",
+      "箸",
+      "べてください"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 93,
+    "japanese": "橋を渡りました。",
+    "furigana": "はしを わたりました。",
+    "translation": "Atravessei a ponte.",
+    "keywords": [
+      "渡",
+      "りました",
+      "橋"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 94,
+    "japanese": "二十歳になりました。",
+    "furigana": "はたちに なりました。",
+    "translation": "Fiz vinte anos.",
+    "keywords": [
+      "二十歳",
+      "になりました"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 95,
+    "japanese": "二十日に試験があります。",
+    "furigana": "はつかに しけんが あります。",
+    "translation": "Tem prova no dia vinte.",
+    "keywords": [
+      "二十日",
+      "試験",
+      "があります"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 96,
+    "japanese": "この辺にコンビニありますか。",
+    "furigana": "この へんに コンビニ ありますか。",
+    "translation": "Tem uma loja de conveniência por aqui?",
+    "keywords": [
+      "この",
+      "辺",
+      "にコンビニありますか"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 97,
+    "japanese": "料理が下手です。",
+    "furigana": "りょうりが へたです。",
+    "translation": "Sou ruim em cozinhar.",
+    "keywords": [
+      "です",
+      "下手",
+      "料理"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 98,
+    "japanese": "私の部屋は狭いです。",
+    "furigana": "わたしの へやは せまいです。",
+    "translation": "Meu quarto é pequeno.",
+    "keywords": [
+      "私",
+      "いです",
+      "部屋",
+      "狭"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 99,
+    "japanese": "左に曲がってください。",
+    "furigana": "ひだりに まがって ください。",
+    "translation": "Vire à esquerda, por favor.",
+    "keywords": [
+      "がってください",
+      "左",
+      "曲"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 100,
+    "japanese": "東京は東にあります。",
+    "furigana": "とうきょうは ひがしに あります。",
+    "translation": "Tóquio fica ao leste.",
+    "keywords": [
+      "東京",
+      "東",
+      "にあります"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 101,
+    "japanese": "赤いリンゴがおいしそうだ。",
+    "furigana": "あかい リンゴが おいしそうだ。",
+    "translation": "A maçã vermelha parece gostosa.",
+    "keywords": [
+      "いリンゴがおいしそうだ",
+      "赤"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 102,
+    "japanese": "秋の紅葉が美しいですね。",
+    "furigana": "あきの こうようが うつくしいですね。",
+    "translation": "As folhas de outono são lindas, não é?",
+    "keywords": [
+      "美",
+      "秋",
+      "紅葉",
+      "しいですね"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 103,
+    "japanese": "雨の日は家にいます。",
+    "furigana": "あめの ひは いえに います。",
+    "translation": "Fico em casa em dias chuvosos.",
+    "keywords": [
+      "日",
+      "にいます",
+      "家",
+      "雨"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 104,
+    "japanese": "飴、もらっていい？",
+    "furigana": "あめ、もらって いい？",
+    "translation": "Posso pegar um doce?",
+    "keywords": [
+      "飴",
+      "もらっていい"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 105,
+    "japanese": "姉の誕生日は来週です。",
+    "furigana": "あねの たんじょうびは らいしゅうです。",
+    "translation": "O aniversário da minha irmã é semana que vem.",
+    "keywords": [
+      "姉",
+      "です",
+      "来週",
+      "誕生日"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 106,
+    "japanese": "兄は背が高いです。",
+    "furigana": "あにわ せが たかいです。",
+    "translation": "Meu irmão é alto.",
+    "keywords": [
+      "いです",
+      "高",
+      "兄",
+      "背"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 107,
+    "japanese": "青いシャツを着ています。",
+    "furigana": "あおい シャツを きています。",
+    "translation": "Estou usando uma camisa azul.",
+    "keywords": [
+      "着",
+      "青",
+      "ています",
+      "いシャツを"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 108,
+    "japanese": "アパートの家賃は高いです。",
+    "furigana": "アパートの やちんは たかいです。",
+    "translation": "O aluguel do apartamento é caro.",
+    "keywords": [
+      "いです",
+      "アパートの",
+      "高",
+      "家賃"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 109,
+    "japanese": "朝早く起きるのは難しい。",
+    "furigana": "あさ はやく おきるのは むずかしい。",
+    "translation": "É difícil acordar cedo de manhã.",
+    "keywords": [
+      "しい",
+      "朝早",
+      "きるのは",
+      "起",
+      "難"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 110,
+    "japanese": "朝ご飯は何を食べますか。",
+    "furigana": "あさごはんは なにを たべますか。",
+    "translation": "O que você come no café da manhã?",
+    "keywords": [
+      "べますか",
+      "飯",
+      "何",
+      "食",
+      "朝"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 111,
+    "japanese": "明後日は友達と会います。",
+    "furigana": "あさっては ともだちと あいます。",
+    "translation": "Depois de amanhã vou me encontrar com um amigo.",
+    "keywords": [
+      "会",
+      "います",
+      "友達",
+      "明後日"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 112,
+    "japanese": "足が速い人ですね。",
+    "furigana": "あしが はやい ひとですね。",
+    "translation": "Você é rápido correndo, né?",
+    "keywords": [
+      "ですね",
+      "人",
+      "速",
+      "足"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 113,
+    "japanese": "明日の天気はどうですか。",
+    "furigana": "あしたの てんきは どうですか。",
+    "translation": "Como estará o tempo amanhã?",
+    "keywords": [
+      "明日",
+      "はどうですか",
+      "天気"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 114,
+    "japanese": "頭がいい学生です。",
+    "furigana": "あたまが いい がくせいです。",
+    "translation": "É um estudante inteligente.",
+    "keywords": [
+      "頭",
+      "です",
+      "がいい",
+      "学生"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 115,
+    "japanese": "後で連絡します。",
+    "furigana": "あとで れんらくします。",
+    "translation": "Entro em contato depois.",
+    "keywords": [
+      "後",
+      "連絡",
+      "します"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 116,
+    "japanese": "晩ご飯、何食べたい？",
+    "furigana": "ばんごはん、なに たべたい？",
+    "translation": "O que quer comer no jantar?",
+    "keywords": [
+      "べたい",
+      "晩",
+      "飯何食"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 117,
+    "japanese": "この番号は間違っています。",
+    "furigana": "この ばんごうは まちがっています。",
+    "translation": "Este número está errado.",
+    "keywords": [
+      "間違",
+      "番号",
+      "この",
+      "っています"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 118,
+    "japanese": "バスが遅れています。",
+    "furigana": "バスが おくれています。",
+    "translation": "O ônibus está atrasado.",
+    "keywords": [
+      "遅",
+      "バスが",
+      "れています"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 119,
+    "japanese": "バターとジャムをください。",
+    "furigana": "バターと ジャムを ください。",
+    "translation": "Me dê manteiga e geleia, por favor.",
+    "keywords": [
+      "バターとジャムをください"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 120,
+    "japanese": "ベッドが大きいです。",
+    "furigana": "ベッドが おおきいです。",
+    "translation": "A cama é grande.",
+    "keywords": [
+      "大",
+      "ベッドが",
+      "きいです"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 121,
+    "japanese": "勉強しなきゃ。",
+    "furigana": "べんきょうしなきゃ。",
+    "translation": "Tenho que estudar.",
+    "keywords": [
+      "しなきゃ",
+      "勉強"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 122,
+    "japanese": "ボールペン、持ってる？",
+    "furigana": "ボールペン、もってる？",
+    "translation": "Você tem caneta?",
+    "keywords": [
+      "ってる",
+      "ボールペン",
+      "持"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 123,
+    "japanese": "ボタンが取れました。",
+    "furigana": "ボタンが とれました。",
+    "translation": "O botão caiu.",
+    "keywords": [
+      "れました",
+      "ボタンが",
+      "取"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 124,
+    "japanese": "帽子を被っています。",
+    "furigana": "ぼうしを かぶっています。",
+    "translation": "Estou usando um chapéu.",
+    "keywords": [
+      "被",
+      "っています",
+      "帽子"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 125,
+    "japanese": "文章を書く練習をします。",
+    "furigana": "ぶんしょうを かく れんしゅうを します。",
+    "translation": "Pratico escrever frases.",
+    "keywords": [
+      "をします",
+      "文章",
+      "書",
+      "練習"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 126,
+    "japanese": "豚肉を炒めました。",
+    "furigana": "ぶたにくを いためました。",
+    "translation": "Refroguei carne de porco.",
+    "keywords": [
+      "めました",
+      "炒",
+      "豚肉"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 127,
+    "japanese": "病院に行かなければなりません。",
+    "furigana": "びょういんに いかなければ なりません。",
+    "translation": "Preciso ir ao hospital.",
+    "keywords": [
+      "行",
+      "病院",
+      "かなければなりません"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 128,
+    "japanese": "病気の時は休みましょう。",
+    "furigana": "びょうきの ときは やすみましょう。",
+    "translation": "Quando estiver doente, descanse.",
+    "keywords": [
+      "休",
+      "病気",
+      "時",
+      "みましょう"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 129,
+    "japanese": "茶色の猫がいます。",
+    "furigana": "ちゃいろの ねこが います。",
+    "translation": "Tem um gato marrom.",
+    "keywords": [
+      "猫",
+      "茶色",
+      "がいます"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 130,
+    "japanese": "茶碗が割れました。",
+    "furigana": "ちゃわんが われました。",
+    "translation": "A tigela quebrou.",
+    "keywords": [
+      "茶碗",
+      "割",
+      "れました"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 131,
+    "japanese": "父の仕事は大変そうです。",
+    "furigana": "ちちの しごとは たいへんそうです。",
+    "translation": "O trabalho do meu pai parece difícil.",
+    "keywords": [
+      "仕事",
+      "父",
+      "大変",
+      "そうです"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 132,
+    "japanese": "地下鉄は速いですね。",
+    "furigana": "ちかてつは はやいですね。",
+    "translation": "O metrô é rápido, né?",
+    "keywords": [
+      "いですね",
+      "地下鉄",
+      "速"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 133,
+    "japanese": "地図で場所を確認しました。",
+    "furigana": "ちずで ばしょを かくにんしました。",
+    "translation": "Confirmei o local no mapa.",
+    "keywords": [
+      "場所",
+      "しました",
+      "地図",
+      "確認"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 134,
+    "japanese": "台所が狭いです。",
+    "furigana": "だいどころが せまいです。",
+    "translation": "A cozinha é pequena.",
+    "keywords": [
+      "いです",
+      "狭",
+      "台所"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 135,
+    "japanese": "大学に入りたいです。",
+    "furigana": "だいがくに はいりたいです。",
+    "translation": "Quero entrar na universidade.",
+    "keywords": [
+      "入",
+      "大学",
+      "りたいです"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 136,
+    "japanese": "出口が分かりません。",
+    "furigana": "でぐちが わかりません。",
+    "translation": "Não sei onde é a saída.",
+    "keywords": [
+      "出口",
+      "分",
+      "かりません"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 137,
+    "japanese": "電気を点けてください。",
+    "furigana": "でんきを つけて ください。",
+    "translation": "Acenda a luz, por favor.",
+    "keywords": [
+      "電気",
+      "けてください",
+      "点"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 138,
+    "japanese": "電車に乗り遅れました。",
+    "furigana": "でんしゃに のりおくれました。",
+    "translation": "Perdi o trem.",
+    "keywords": [
+      "遅",
+      "れました",
+      "電車",
+      "乗"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 139,
+    "japanese": "電話が鳴っています。",
+    "furigana": "でんわが なっています。",
+    "translation": "O telefone está tocando.",
+    "keywords": [
+      "鳴",
+      "電話",
+      "っています"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 140,
+    "japanese": "デパートで買い物しましょう。",
+    "furigana": "デパートで かいものしましょう。",
+    "translation": "Vamos fazer compras no shopping.",
+    "keywords": [
+      "買",
+      "デパートで",
+      "しましょう",
+      "物"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 141,
+    "japanese": "ドアを閉めて。",
+    "furigana": "ドアを しめて。",
+    "translation": "Feche a porta.",
+    "keywords": [
+      "めて",
+      "閉",
+      "ドアを"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 142,
+    "japanese": "どなたか分かりますか。",
+    "furigana": "どなたか わかりますか。",
+    "translation": "Você sabe quem é?",
+    "keywords": [
+      "かりますか",
+      "どなたか",
+      "分"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 143,
+    "japanese": "動物園に行きました。",
+    "furigana": "どうぶつえんに いきました。",
+    "translation": "Fui ao zoológico.",
+    "keywords": [
+      "行",
+      "きました",
+      "動物園"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 144,
+    "japanese": "土曜日、暇？",
+    "furigana": "どようび、ひま？",
+    "translation": "Tá livre no sábado?",
+    "keywords": [
+      "土曜日暇"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 145,
+    "japanese": "絵を描くのが好きです。",
+    "furigana": "えを かくのが すきです。",
+    "translation": "Gosto de desenhar.",
+    "keywords": [
+      "くのが",
+      "きです",
+      "絵",
+      "描",
+      "好"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 146,
+    "japanese": "ええ、そうですね。",
+    "furigana": "ええ、そうですね。",
+    "translation": "Sim, é isso mesmo.",
+    "keywords": [
+      "ええそうですね"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 147,
+    "japanese": "映画、見た？",
+    "furigana": "えいが、みた？",
+    "translation": "Viu o filme?",
+    "keywords": [
+      "映画見"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 148,
+    "japanese": "映画館で働いています。",
+    "furigana": "えいがかんで はたらいています。",
+    "translation": "Trabalho no cinema.",
+    "keywords": [
+      "いています",
+      "働",
+      "映画館"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 149,
+    "japanese": "英語が上手ですね。",
+    "furigana": "えいごが じょうずですね。",
+    "translation": "Você fala inglês bem, né?",
+    "keywords": [
+      "上手",
+      "英語",
+      "ですね"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 150,
+    "japanese": "駅の近くに住んでいます。",
+    "furigana": "えきの ちかくに すんでいます。",
+    "translation": "Moro perto da estação.",
+    "keywords": [
+      "んでいます",
+      "近",
+      "住",
+      "駅",
+      "くに"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 151,
+    "japanese": "鉛筆で書いてください。",
+    "furigana": "えんぴつで かいて ください。",
+    "translation": "Escreva com lápis, por favor.",
+    "keywords": [
+      "鉛筆",
+      "いてください",
+      "書"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 152,
+    "japanese": "エレベーターが壊れています。",
+    "furigana": "エレベーターが こわれています。",
+    "translation": "O elevador está quebrado.",
+    "keywords": [
+      "エレベーターが",
+      "壊",
+      "れています"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 153,
+    "japanese": "フィルムを買いました。",
+    "furigana": "フィルムを かいました。",
+    "translation": "Comprei um filme.",
+    "keywords": [
+      "買",
+      "いました",
+      "フィルムを"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 154,
+    "japanese": "フォークが落ちました。",
+    "furigana": "フォークが おちました。",
+    "translation": "O garfo caiu.",
+    "keywords": [
+      "ちました",
+      "落",
+      "フォークが"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 155,
+    "japanese": "服がたくさんあります。",
+    "furigana": "ふくが たくさん あります。",
+    "translation": "Tenho muitas roupas.",
+    "keywords": [
+      "服",
+      "がたくさんあります"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 156,
+    "japanese": "二人で写真を撮りました。",
+    "furigana": "ふたりで しゃしんを とりました。",
+    "translation": "Tiramos uma foto juntos.",
+    "keywords": [
+      "二人",
+      "撮",
+      "りました",
+      "写真"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 157,
+    "japanese": "二つで十分です。",
+    "furigana": "ふたつで じゅうぶんです。",
+    "translation": "Dois são suficientes.",
+    "keywords": [
+      "つで",
+      "です",
+      "二",
+      "十分"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 158,
+    "japanese": "二日間休みます。",
+    "furigana": "ふつかかん やすみます。",
+    "translation": "Vou descansar por dois dias.",
+    "keywords": [
+      "二日間休",
+      "みます"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 159,
+    "japanese": "封筒をください。",
+    "furigana": "ふうとうを ください。",
+    "translation": "Me dê um envelope, por favor.",
+    "keywords": [
+      "をください",
+      "封筒"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 160,
+    "japanese": "冬の朝は寒いです。",
+    "furigana": "ふゆの あさは さむいです。",
+    "translation": "As manhãs de inverno são frias.",
+    "keywords": [
+      "いです",
+      "冬",
+      "朝",
+      "寒"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 161,
+    "japanese": "外国の料理が好きです。",
+    "furigana": "がいこくの りょうりが すきです。",
+    "translation": "Gosto de comida estrangeira.",
+    "keywords": [
+      "料理",
+      "きです",
+      "外国",
+      "好"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 162,
+    "japanese": "外国人と話しました。",
+    "furigana": "がいこくじんと はなしました。",
+    "translation": "Conversei com um estrangeiro.",
+    "keywords": [
+      "しました",
+      "話",
+      "外国人"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 163,
+    "japanese": "学校、休んじゃった。",
+    "furigana": "がっこう、やすんじゃった。",
+    "translation": "Acabei faltando na escola.",
+    "keywords": [
+      "んじゃった",
+      "学校休"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 164,
+    "japanese": "学生証を見せてください。",
+    "furigana": "がくせいしょうを みせて ください。",
+    "translation": "Mostre sua carteirinha de estudante, por favor.",
+    "keywords": [
+      "学生証",
+      "見",
+      "せてください"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 165,
+    "japanese": "玄関が広いですね。",
+    "furigana": "げんかんが ひろいですね。",
+    "translation": "A entrada é espaçosa, né?",
+    "keywords": [
+      "いですね",
+      "玄関",
+      "広"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 166,
+    "japanese": "元気そうですね。",
+    "furigana": "げんきそうですね。",
+    "translation": "Você parece bem, né?",
+    "keywords": [
+      "そうですね",
+      "元気"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 167,
+    "japanese": "月曜日から金曜日まで働きます。",
+    "furigana": "げつようびから きんようびまで はたらきます。",
+    "translation": "Trabalho de segunda a sexta.",
+    "keywords": [
+      "働",
+      "きます",
+      "から",
+      "まで",
+      "金曜日"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 168,
+    "japanese": "銀行でお金を下ろしました。",
+    "furigana": "ぎんこうで おかねを おろしました。",
+    "translation": "Saquei dinheiro no banco.",
+    "keywords": [
+      "でお",
+      "下",
+      "ろしました",
+      "金",
+      "銀行"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 169,
+    "japanese": "ギター、弾ける？",
+    "furigana": "ギター、ひける？",
+    "translation": "Você sabe tocar violão?",
+    "keywords": [
+      "ける",
+      "ギター",
+      "弾"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 170,
+    "japanese": "五人で行きます。",
+    "furigana": "ごにんで いきます。",
+    "translation": "Vamos em cinco pessoas.",
+    "keywords": [
+      "行",
+      "五人",
+      "きます"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 171,
+    "japanese": "午後は図書館にいます。",
+    "furigana": "ごごは としょかんに います。",
+    "translation": "Estarei na biblioteca à tarde.",
+    "keywords": [
+      "午後",
+      "図書館",
+      "にいます"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 172,
+    "japanese": "ご飯を作りましょう。",
+    "furigana": "ごはんを つくりましょう。",
+    "translation": "Vamos fazer comida.",
+    "keywords": [
+      "りましょう",
+      "飯",
+      "作"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 173,
+    "japanese": "午前中は忙しいです。",
+    "furigana": "ごぜんちゅうは いそがしいです。",
+    "translation": "Estou ocupado de manhã.",
+    "keywords": [
+      "しいです",
+      "忙",
+      "午前中"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 174,
+    "japanese": "二百グラムください。",
+    "furigana": "にひゃくグラム ください。",
+    "translation": "Me dê duzentos gramas, por favor.",
+    "keywords": [
+      "グラムください",
+      "二百"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 175,
+    "japanese": "牛肉は豚肉より高いです。",
+    "furigana": "ぎゅうにくは ぶたにくより たかいです。",
+    "translation": "Carne bovina é mais cara que carne de porco.",
+    "keywords": [
+      "高",
+      "豚肉",
+      "いです",
+      "牛肉",
+      "より"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 176,
+    "japanese": "牛乳が冷たいです。",
+    "furigana": "ぎゅうにゅうが つめたいです。",
+    "translation": "O leite está gelado.",
+    "keywords": [
+      "牛乳",
+      "たいです",
+      "冷"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 177,
+    "japanese": "歯を磨きました。",
+    "furigana": "はを みがきました。",
+    "translation": "Escovei os dentes.",
+    "keywords": [
+      "歯",
+      "きました",
+      "磨"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 178,
+    "japanese": "八時半に家を出ます。",
+    "furigana": "はちじはんに いえを でます。",
+    "translation": "Saio de casa às oito e meia.",
+    "keywords": [
+      "出",
+      "ます",
+      "家",
+      "八時半"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 179,
+    "japanese": "葉書で連絡します。",
+    "furigana": "はがきで れんらくします。",
+    "translation": "Vou entrar em contato por postal.",
+    "keywords": [
+      "します",
+      "連絡",
+      "葉書"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 180,
+    "japanese": "母が料理を作ってくれました。",
+    "furigana": "ははが りょうりを つくって くれました。",
+    "translation": "Minha mãe fez comida para mim.",
+    "keywords": [
+      "ってくれました",
+      "母",
+      "料理",
+      "作"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 181,
+    "japanese": "はい、お願いします。",
+    "furigana": "はい、おねがいします。",
+    "translation": "Sim, por favor.",
+    "keywords": [
+      "はいお",
+      "願",
+      "いします"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 182,
+    "japanese": "灰皿を持ってきてください。",
+    "furigana": "はいざらを もってきて ください。",
+    "translation": "Traga um cinzeiro, por favor.",
+    "keywords": [
+      "灰皿",
+      "持",
+      "ってきてください"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 183,
+    "japanese": "箱を開けました。",
+    "furigana": "はこを あけました。",
+    "translation": "Abri a caixa.",
+    "keywords": [
+      "開",
+      "けました",
+      "箱"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 184,
+    "japanese": "五時半に待ち合わせましょう。",
+    "furigana": "ごじはんに まちあわせましょう。",
+    "translation": "Vamos nos encontrar às cinco e meia.",
+    "keywords": [
+      "五時半",
+      "わせましょう",
+      "合",
+      "待"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 185,
+    "japanese": "花屋で花を買いました。",
+    "furigana": "はなやで はなを かいました。",
+    "translation": "Comprei flores na floricultura.",
+    "keywords": [
+      "花屋",
+      "花",
+      "買",
+      "いました"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 186,
+    "japanese": "鼻水が出ます。",
+    "furigana": "はなみずが でます。",
+    "translation": "Estou com coriza.",
+    "keywords": [
+      "出",
+      "ます",
+      "鼻水"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 187,
+    "japanese": "面白い話をしてください。",
+    "furigana": "おもしろい はなしを して ください。",
+    "translation": "Conte uma história interessante, por favor.",
+    "keywords": [
+      "話",
+      "面白",
+      "をしてください"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 188,
+    "japanese": "半分食べました。",
+    "furigana": "はんぶん たべました。",
+    "translation": "Comi metade.",
+    "keywords": [
+      "半分食",
+      "べました"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 189,
+    "japanese": "ハンカチ、ある？",
+    "furigana": "ハンカチ、ある？",
+    "translation": "Tem lenço?",
+    "keywords": [
+      "ハンカチある"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 190,
+    "japanese": "晴れた日は散歩します。",
+    "furigana": "はれた ひは さんぽします。",
+    "translation": "Em dias ensolarados faço caminhada.",
+    "keywords": [
+      "します",
+      "散歩",
+      "晴",
+      "日",
+      "れた"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 191,
+    "japanese": "春が来ました。",
+    "furigana": "はるが きました。",
+    "translation": "A primavera chegou.",
+    "keywords": [
+      "来",
+      "ました",
+      "春"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 192,
+    "japanese": "箸の使い方が上手ですね。",
+    "furigana": "はしの つかいかたが じょうずですね。",
+    "translation": "Você usa pauzinhos bem, né?",
+    "keywords": [
+      "上手",
+      "使",
+      "箸",
+      "ですね",
+      "方"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 193,
+    "japanese": "橋の向こうに公園があります。",
+    "furigana": "はしの むこうに こうえんが あります。",
+    "translation": "Tem um parque do outro lado da ponte.",
+    "keywords": [
+      "公園",
+      "こうに",
+      "向",
+      "橋",
+      "があります"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 194,
+    "japanese": "二十歳の誕生日でした。",
+    "furigana": "はたちの たんじょうびでした。",
+    "translation": "Foi meu aniversário de vinte anos.",
+    "keywords": [
+      "二十歳",
+      "でした",
+      "誕生日"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 195,
+    "japanese": "二十日まで待ってください。",
+    "furigana": "はつかまで まって ください。",
+    "translation": "Espere até o dia vinte, por favor.",
+    "keywords": [
+      "二十日",
+      "ってください",
+      "まで",
+      "待"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 196,
+    "japanese": "この辺は静かです。",
+    "furigana": "この へんは しずかです。",
+    "translation": "É silencioso por aqui.",
+    "keywords": [
+      "この",
+      "辺",
+      "かです",
+      "静"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 197,
+    "japanese": "歌が下手です。",
+    "furigana": "うたが へたです。",
+    "translation": "Sou ruim em cantar.",
+    "keywords": [
+      "です",
+      "歌",
+      "下手"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 198,
+    "japanese": "部屋を掃除しました。",
+    "furigana": "へやを そうじしました。",
+    "translation": "Limpei o quarto.",
+    "keywords": [
+      "部屋",
+      "しました",
+      "掃除"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 199,
+    "japanese": "左側にあります。",
+    "furigana": "ひだりがわに あります。",
+    "translation": "Fica do lado esquerdo.",
+    "keywords": [
+      "左側",
+      "にあります"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 200,
+    "japanese": "東の空が明るくなりました。",
+    "furigana": "ひがしの そらが あかるく なりました。",
+    "translation": "O céu no leste ficou claro.",
+    "keywords": [
+      "東",
+      "空",
+      "明",
+      "るくなりました"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 201,
+    "japanese": "赤ワインが好きです。",
+    "furigana": "あかワインが すきです。",
+    "translation": "Gosto de vinho tinto.",
+    "keywords": [
+      "ワインが",
+      "赤",
+      "きです",
+      "好"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 202,
+    "japanese": "秋に旅行します。",
+    "furigana": "あきに りょこうします。",
+    "translation": "Viajarei no outono.",
+    "keywords": [
+      "秋",
+      "します",
+      "旅行"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 203,
+    "japanese": "雨が止みました。",
+    "furigana": "あめが やみました。",
+    "translation": "A chuva parou.",
+    "keywords": [
+      "みました",
+      "止",
+      "雨"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 204,
+    "japanese": "飴ちょうだい。",
+    "furigana": "あめ ちょうだい。",
+    "translation": "Me dá um doce.",
+    "keywords": [
+      "ちょうだい",
+      "飴"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 205,
+    "japanese": "姉と買い物に行きます。",
+    "furigana": "あねと かいものに いきます。",
+    "translation": "Vou fazer compras com minha irmã.",
+    "keywords": [
+      "姉",
+      "行",
+      "きます",
+      "買",
+      "物"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 206,
+    "japanese": "兄はサッカーが好きだ。",
+    "furigana": "あには サッカーが すきだ。",
+    "translation": "Meu irmão gosta de futebol.",
+    "keywords": [
+      "はサッカーが",
+      "きだ",
+      "兄",
+      "好"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 207,
+    "japanese": "青い鳥を見ました。",
+    "furigana": "あおい とりを みました。",
+    "translation": "Vi um pássaro azul.",
+    "keywords": [
+      "青",
+      "見",
+      "鳥",
+      "ました"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 208,
+    "japanese": "アパート探してます。",
+    "furigana": "アパート さがしてます。",
+    "translation": "Estou procurando apartamento.",
+    "keywords": [
+      "アパート",
+      "してます",
+      "探"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 209,
+    "japanese": "朝は散歩します。",
+    "furigana": "あさは さんぽします。",
+    "translation": "De manhã faço caminhada.",
+    "keywords": [
+      "散歩",
+      "します",
+      "朝"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 210,
+    "japanese": "朝ご飯、美味しかった。",
+    "furigana": "あさごはん、おいしかった。",
+    "translation": "O café da manhã estava gostoso.",
+    "keywords": [
+      "飯美味",
+      "朝",
+      "しかった"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 211,
+    "japanese": "明後日から休みです。",
+    "furigana": "あさってから やすみです。",
+    "translation": "A partir de depois de amanhã é folga.",
+    "keywords": [
+      "休",
+      "から",
+      "明後日",
+      "みです"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 212,
+    "japanese": "足首が痛いです。",
+    "furigana": "あしくびが いたいです。",
+    "translation": "Meu tornozelo dói.",
+    "keywords": [
+      "痛",
+      "いです",
+      "足首"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 213,
+    "japanese": "明日は忙しいです。",
+    "furigana": "あしたは いそがしいです。",
+    "translation": "Amanhã estou ocupado.",
+    "keywords": [
+      "明日",
+      "忙",
+      "しいです"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 214,
+    "japanese": "頭を使う仕事です。",
+    "furigana": "あたまを つかう しごとです。",
+    "translation": "É um trabalho que usa a cabeça.",
+    "keywords": [
+      "頭",
+      "仕事",
+      "使",
+      "です"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 215,
+    "japanese": "後でメールします。",
+    "furigana": "あとで メールします。",
+    "translation": "Mando e-mail depois.",
+    "keywords": [
+      "後",
+      "でメールします"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 216,
+    "japanese": "晩ご飯できたよ。",
+    "furigana": "ばんごはん できたよ。",
+    "translation": "O jantar está pronto.",
+    "keywords": [
+      "晩",
+      "飯",
+      "できたよ"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 217,
+    "japanese": "番号を押してください。",
+    "furigana": "ばんごうを おして ください。",
+    "translation": "Aperte o número, por favor.",
+    "keywords": [
+      "番号",
+      "押",
+      "してください"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 218,
+    "japanese": "バスに乗りましょう。",
+    "furigana": "バスに のりましょう。",
+    "translation": "Vamos pegar o ônibus.",
+    "keywords": [
+      "りましょう",
+      "バスに",
+      "乗"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 219,
+    "japanese": "バター、買ってきて。",
+    "furigana": "バター、かってきて。",
+    "translation": "Compra manteiga.",
+    "keywords": [
+      "買",
+      "ってきて",
+      "バター"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 220,
+    "japanese": "ベッドで寝ています。",
+    "furigana": "ベッドで ねています。",
+    "translation": "Estou dormindo na cama.",
+    "keywords": [
+      "ベッドで",
+      "寝",
+      "ています"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 221,
+    "japanese": "勉強する時間がありません。",
+    "furigana": "べんきょうする じかんが ありません。",
+    "translation": "Não tenho tempo para estudar.",
+    "keywords": [
+      "時間",
+      "勉強",
+      "がありません",
+      "する"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 222,
+    "japanese": "ボールペンが書けません。",
+    "furigana": "ボールペンが かけません。",
+    "translation": "A caneta não escreve.",
+    "keywords": [
+      "けません",
+      "書",
+      "ボールペンが"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 223,
+    "japanese": "ボタン、取れちゃった。",
+    "furigana": "ボタン、とれちゃった。",
+    "translation": "O botão caiu.",
+    "keywords": [
+      "れちゃった",
+      "ボタン",
+      "取"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 224,
+    "japanese": "帽子が風で飛びました。",
+    "furigana": "ぼうしが かぜで とびました。",
+    "translation": "O chapéu voou com o vento.",
+    "keywords": [
+      "飛",
+      "びました",
+      "風",
+      "帽子"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 225,
+    "japanese": "文章が長いです。",
+    "furigana": "ぶんしょうが ながいです。",
+    "translation": "A frase é longa.",
+    "keywords": [
+      "いです",
+      "文章",
+      "長"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 226,
+    "japanese": "豚肉料理が得意です。",
+    "furigana": "ぶたにく りょうりが とくいです。",
+    "translation": "Sou bom em cozinhar carne de porco.",
+    "keywords": [
+      "得意",
+      "です",
+      "豚肉料理"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 227,
+    "japanese": "病院の予約をしました。",
+    "furigana": "びょういんの よやくを しました。",
+    "translation": "Marquei consulta no hospital.",
+    "keywords": [
+      "をしました",
+      "病院",
+      "予約"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 228,
+    "japanese": "病気が治りました。",
+    "furigana": "びょうきが なおりました。",
+    "translation": "A doença se curou.",
+    "keywords": [
+      "病気",
+      "りました",
+      "治"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 229,
+    "japanese": "茶色い犬がいます。",
+    "furigana": "ちゃいろい いぬが います。",
+    "translation": "Tem um cachorro marrom.",
+    "keywords": [
+      "がいます",
+      "茶色",
+      "犬"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 230,
+    "japanese": "茶碗、洗って。",
+    "furigana": "ちゃわん、あらって。",
+    "translation": "Lave a tigela.",
+    "keywords": [
+      "茶碗洗",
+      "って"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 231,
+    "japanese": "父と話しました。",
+    "furigana": "ちちと はなしました。",
+    "translation": "Conversei com meu pai.",
+    "keywords": [
+      "父",
+      "しました",
+      "話"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 232,
+    "japanese": "地下鉄の切符を買いました。",
+    "furigana": "ちかてつの きっぷを かいました。",
+    "translation": "Comprei passagem de metrô.",
+    "keywords": [
+      "買",
+      "いました",
+      "地下鉄",
+      "切符"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 233,
+    "japanese": "地図アプリを使います。",
+    "furigana": "ちず アプリを つかいます。",
+    "translation": "Uso aplicativo de mapa.",
+    "keywords": [
+      "使",
+      "アプリを",
+      "います",
+      "地図"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 234,
+    "japanese": "台所にいます。",
+    "furigana": "だいどころに います。",
+    "translation": "Estou na cozinha.",
+    "keywords": [
+      "台所",
+      "にいます"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 235,
+    "japanese": "大学生になりました。",
+    "furigana": "だいがくせいに なりました。",
+    "translation": "Me tornei universitário.",
+    "keywords": [
+      "になりました",
+      "大学生"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 236,
+    "japanese": "出口はあちらです。",
+    "furigana": "でぐちは あちらです。",
+    "translation": "A saída é por ali.",
+    "keywords": [
+      "はあちらです",
+      "出口"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 237,
+    "japanese": "電気代が高いです。",
+    "furigana": "でんきだいが たかいです。",
+    "translation": "A conta de luz é cara.",
+    "keywords": [
+      "電気代",
+      "いです",
+      "高"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 238,
+    "japanese": "電車が混んでいます。",
+    "furigana": "でんしゃが こんでいます。",
+    "translation": "O trem está lotado.",
+    "keywords": [
+      "混",
+      "電車",
+      "んでいます"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 239,
+    "japanese": "電話してもいいですか。",
+    "furigana": "でんわしても いいですか。",
+    "translation": "Posso ligar?",
+    "keywords": [
+      "してもいいですか",
+      "電話"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 240,
+    "japanese": "デパート行こう。",
+    "furigana": "デパート いこう。",
+    "translation": "Vamos ao shopping.",
+    "keywords": [
+      "行",
+      "デパート",
+      "こう"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 241,
+    "japanese": "ドアが開いています。",
+    "furigana": "ドアが あいています。",
+    "translation": "A porta está aberta.",
+    "keywords": [
+      "いています",
+      "開",
+      "ドアが"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 242,
+    "japanese": "どなたをお呼びしましょうか。",
+    "furigana": "どなたを およびしましょうか。",
+    "translation": "Quem devo chamar?",
+    "keywords": [
+      "びしましょうか",
+      "どなたをお",
+      "呼"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 243,
+    "japanese": "動物が怖いです。",
+    "furigana": "どうぶつが こわいです。",
+    "translation": "Tenho medo de animais.",
+    "keywords": [
+      "怖",
+      "いです",
+      "動物"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 244,
+    "japanese": "土曜日は休みです。",
+    "furigana": "どようびは やすみです。",
+    "translation": "Sábado é folga.",
+    "keywords": [
+      "土曜日",
+      "休",
+      "みです"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 245,
+    "japanese": "絵が上手ですね。",
+    "furigana": "えが じょうずですね。",
+    "translation": "Você desenha bem, né?",
+    "keywords": [
+      "上手",
+      "絵",
+      "ですね"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 246,
+    "japanese": "ええ、いいですよ。",
+    "furigana": "ええ、いいですよ。",
+    "translation": "Sim, tudo bem.",
+    "keywords": [
+      "ええいいですよ"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 247,
+    "japanese": "映画のチケットを買いました。",
+    "furigana": "えいがの チケットを かいました。",
+    "translation": "Comprei ingresso de cinema.",
+    "keywords": [
+      "買",
+      "映画",
+      "のチケットを",
+      "いました"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 248,
+    "japanese": "映画館、近い？",
+    "furigana": "えいがかん、ちかい？",
+    "translation": "O cinema é perto?",
+    "keywords": [
+      "映画館近"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 249,
+    "japanese": "英語を教えています。",
+    "furigana": "えいごを おしえています。",
+    "translation": "Ensino inglês.",
+    "keywords": [
+      "えています",
+      "教",
+      "英語"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 250,
+    "japanese": "駅で待っています。",
+    "furigana": "えきで まっています。",
+    "translation": "Estou esperando na estação.",
+    "keywords": [
+      "駅",
+      "っています",
+      "待"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 251,
+    "japanese": "鉛筆を削りました。",
+    "furigana": "えんぴつを けずりました。",
+    "translation": "Apontei o lápis.",
+    "keywords": [
+      "鉛筆",
+      "りました",
+      "削"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 252,
+    "japanese": "エレベーターに乗りました。",
+    "furigana": "エレベーターに のりました。",
+    "translation": "Peguei o elevador.",
+    "keywords": [
+      "エレベーターに",
+      "りました",
+      "乗"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 253,
+    "japanese": "フィルムを現像します。",
+    "furigana": "フィルムを げんぞうします。",
+    "translation": "Vou revelar o filme.",
+    "keywords": [
+      "します",
+      "現像",
+      "フィルムを"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 254,
+    "japanese": "フォークとスプーンください。",
+    "furigana": "フォークと スプーン ください。",
+    "translation": "Me dê garfo e colher, por favor.",
+    "keywords": [
+      "フォークとスプーンください"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 255,
+    "japanese": "服を洗いました。",
+    "furigana": "ふくを あらいました。",
+    "translation": "Lavei as roupas.",
+    "keywords": [
+      "洗",
+      "服",
+      "いました"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 256,
+    "japanese": "二人だけで話しましょう。",
+    "furigana": "ふたりだけで はなしましょう。",
+    "translation": "Vamos conversar só nós dois.",
+    "keywords": [
+      "二人",
+      "しましょう",
+      "だけで",
+      "話"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 257,
+    "japanese": "二つ買いました。",
+    "furigana": "ふたつ かいました。",
+    "translation": "Comprei dois.",
+    "keywords": [
+      "買",
+      "二",
+      "いました"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 258,
+    "japanese": "二日後に帰ります。",
+    "furigana": "ふつかごに かえります。",
+    "translation": "Volto em dois dias.",
+    "keywords": [
+      "帰",
+      "二日後",
+      "ります"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 259,
+    "japanese": "封筒に入れてください。",
+    "furigana": "ふうとうに いれて ください。",
+    "translation": "Coloque no envelope, por favor.",
+    "keywords": [
+      "入",
+      "れてください",
+      "封筒"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 260,
+    "japanese": "冬休みはどうでしたか。",
+    "furigana": "ふゆやすみは どうでしたか。",
+    "translation": "Como foram as férias de inverno?",
+    "keywords": [
+      "みはどうでしたか",
+      "冬休"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 261,
+    "japanese": "外国語が話せます。",
+    "furigana": "がいこくごが はなせます。",
+    "translation": "Consigo falar línguas estrangeiras.",
+    "keywords": [
+      "せます",
+      "外国語",
+      "話"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 262,
+    "japanese": "外国人と友達になりました。",
+    "furigana": "がいこくじんと ともだちに なりました。",
+    "translation": "Fiz amizade com um estrangeiro.",
+    "keywords": [
+      "になりました",
+      "友達",
+      "外国人"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 263,
+    "japanese": "学校まで自転車で行きます。",
+    "furigana": "がっこうまで じてんしゃで いきます。",
+    "translation": "Vou de bicicleta até a escola.",
+    "keywords": [
+      "行",
+      "きます",
+      "まで",
+      "自転車",
+      "学校"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 264,
+    "japanese": "学生の頃は楽しかったです。",
+    "furigana": "がくせいの ころは たのしかったです。",
+    "translation": "A época de estudante foi divertida.",
+    "keywords": [
+      "しかったです",
+      "学生",
+      "楽",
+      "頃"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 265,
+    "japanese": "玄関のドアを開けてください。",
+    "furigana": "げんかんの ドアを あけて ください。",
+    "translation": "Abra a porta da entrada, por favor.",
+    "keywords": [
+      "開",
+      "玄関",
+      "けてください",
+      "のドアを"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 266,
+    "japanese": "元気じゃないみたい。",
+    "furigana": "げんきじゃない みたい。",
+    "translation": "Parece que não está bem.",
+    "keywords": [
+      "じゃないみたい",
+      "元気"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 267,
+    "japanese": "月曜日が嫌いです。",
+    "furigana": "げつようびが きらいです。",
+    "translation": "Não gosto de segunda-feira.",
+    "keywords": [
+      "嫌",
+      "いです",
+      "月曜日"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 268,
+    "japanese": "銀行に寄りました。",
+    "furigana": "ぎんこうに よりました。",
+    "translation": "Passei no banco.",
+    "keywords": [
+      "りました",
+      "寄",
+      "銀行"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 269,
+    "japanese": "ギターの練習をします。",
+    "furigana": "ギターの れんしゅうを します。",
+    "translation": "Pratico violão.",
+    "keywords": [
+      "をします",
+      "ギターの",
+      "練習"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 270,
+    "japanese": "五冊買いました。",
+    "furigana": "ごさつ かいました。",
+    "translation": "Comprei cinco livros.",
+    "keywords": [
+      "いました",
+      "五冊買"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 271,
+    "japanese": "午後から雨が降ります。",
+    "furigana": "ごごから あめが ふります。",
+    "translation": "Vai chover a partir da tarde.",
+    "keywords": [
+      "午後",
+      "降",
+      "から",
+      "雨",
+      "ります"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 272,
+    "japanese": "ご飯、おかわり。",
+    "furigana": "ごはん、おかわり。",
+    "translation": "Repete a comida.",
+    "keywords": [
+      "おかわり",
+      "飯"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 273,
+    "japanese": "午前の授業は終わりました。",
+    "furigana": "ごぜんの じゅぎょうは おわりました。",
+    "translation": "A aula da manhã terminou.",
+    "keywords": [
+      "わりました",
+      "終",
+      "午前",
+      "授業"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 274,
+    "japanese": "五十グラムで足ります。",
+    "furigana": "ごじゅうグラムで たります。",
+    "translation": "Cinquenta gramas são suficientes.",
+    "keywords": [
+      "グラムで",
+      "五十",
+      "ります",
+      "足"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 275,
+    "japanese": "牛肉と野菜を炒めます。",
+    "furigana": "ぎゅうにくと やさいを いためます。",
+    "translation": "Refogo carne bovina e vegetais.",
+    "keywords": [
+      "めます",
+      "野菜",
+      "炒",
+      "牛肉"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 276,
+    "japanese": "牛乳アレルギーがあります。",
+    "furigana": "ぎゅうにゅう アレルギーが あります。",
+    "translation": "Tenho alergia a leite.",
+    "keywords": [
+      "牛乳",
+      "アレルギーがあります"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 277,
+    "japanese": "歯医者に行きます。",
+    "furigana": "はいしゃに いきます。",
+    "translation": "Vou ao dentista.",
+    "keywords": [
+      "行",
+      "きます",
+      "歯医者"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 278,
+    "japanese": "八時に寝ます。",
+    "furigana": "はちじに ねます。",
+    "translation": "Durmo às oito.",
+    "keywords": [
+      "ます",
+      "寝",
+      "八時"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 279,
+    "japanese": "葉書が届きました。",
+    "furigana": "はがきが とどきました。",
+    "translation": "O postal chegou.",
+    "keywords": [
+      "きました",
+      "届",
+      "葉書"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 280,
+    "japanese": "母は料理が上手です。",
+    "furigana": "ははは りょうりが じょうずです。",
+    "translation": "Minha mãe cozinha bem.",
+    "keywords": [
+      "です",
+      "上手",
+      "母",
+      "料理"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 281,
+    "japanese": "はい、そうです。",
+    "furigana": "はい、そうです。",
+    "translation": "Sim, é isso.",
+    "keywords": [
+      "はいそうです"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 282,
+    "japanese": "灰皿ください。",
+    "furigana": "はいざら ください。",
+    "translation": "Me dê um cinzeiro, por favor.",
+    "keywords": [
+      "灰皿",
+      "ください"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 283,
+    "japanese": "箱に入れておきました。",
+    "furigana": "はこに いれて おきました。",
+    "translation": "Coloquei na caixa.",
+    "keywords": [
+      "入",
+      "れておきました",
+      "箱"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 284,
+    "japanese": "半年間勉強しました。",
+    "furigana": "はんとしかん べんきょうしました。",
+    "translation": "Estudei por meio ano.",
+    "keywords": [
+      "しました",
+      "半年間勉強"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 285,
+    "japanese": "花が咲いています。",
+    "furigana": "はなが さいています。",
+    "translation": "As flores estão florescendo.",
+    "keywords": [
+      "いています",
+      "花",
+      "咲"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 286,
+    "japanese": "鼻血が出ました。",
+    "furigana": "はなぢが でました。",
+    "translation": "Meu nariz sangrou.",
+    "keywords": [
+      "出",
+      "ました",
+      "鼻血"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 287,
+    "japanese": "話が長いですね。",
+    "furigana": "はなしが ながいですね。",
+    "translation": "A conversa é longa, né?",
+    "keywords": [
+      "長",
+      "いですね",
+      "話"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 288,
+    "japanese": "半分だけください。",
+    "furigana": "はんぶんだけ ください。",
+    "translation": "Me dê só metade, por favor.",
+    "keywords": [
+      "半分",
+      "だけください"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 289,
+    "japanese": "ハンカチ、忘れないで。",
+    "furigana": "ハンカチ、わすれないで。",
+    "translation": "Não esqueça o lenço.",
+    "keywords": [
+      "忘",
+      "ハンカチ",
+      "れないで"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 290,
+    "japanese": "晴れるといいですね。",
+    "furigana": "はれると いいですね。",
+    "translation": "Espero que faça sol, né?",
+    "keywords": [
+      "晴",
+      "れるといいですね"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 291,
+    "japanese": "春休みに旅行します。",
+    "furigana": "はるやすみに りょこうします。",
+    "translation": "Viajarei nas férias de primavera.",
+    "keywords": [
+      "みに",
+      "旅行",
+      "春休",
+      "します"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 292,
+    "japanese": "箸を落としました。",
+    "furigana": "はしを おとしました。",
+    "translation": "Deixei os pauzinhos caírem.",
+    "keywords": [
+      "箸",
+      "としました",
+      "落"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 293,
+    "japanese": "橋を渡ってください。",
+    "furigana": "はしを わたって ください。",
+    "translation": "Atravesse a ponte, por favor.",
+    "keywords": [
+      "渡",
+      "橋",
+      "ってください"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 294,
+    "japanese": "二十歳です。",
+    "furigana": "はたちです。",
+    "translation": "Tenho vinte anos.",
+    "keywords": [
+      "二十歳",
+      "です"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 295,
+    "japanese": "二十日は忙しいです。",
+    "furigana": "はつかは いそがしいです。",
+    "translation": "No dia vinte estou ocupado.",
+    "keywords": [
+      "二十日",
+      "しいです",
+      "忙"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 296,
+    "japanese": "この辺で降ります。",
+    "furigana": "この へんで おります。",
+    "translation": "Desço por aqui.",
+    "keywords": [
+      "降",
+      "辺",
+      "この",
+      "ります"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 297,
+    "japanese": "ピアノが下手です。",
+    "furigana": "ピアノが へたです。",
+    "translation": "Sou ruim em piano.",
+    "keywords": [
+      "ピアノが",
+      "です",
+      "下手"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 298,
+    "japanese": "部屋が暑いです。",
+    "furigana": "へやが あついです。",
+    "translation": "O quarto está quente.",
+    "keywords": [
+      "いです",
+      "部屋",
+      "暑"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 299,
+    "japanese": "左に見えます。",
+    "furigana": "ひだりに みえます。",
+    "translation": "Aparece à esquerda.",
+    "keywords": [
+      "えます",
+      "左",
+      "見"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 300,
+    "japanese": "東京の東側です。",
+    "furigana": "とうきょうの ひがしがわです。",
+    "translation": "É o lado leste de Tóquio.",
+    "keywords": [
+      "東京",
+      "です",
+      "東側"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 301,
+    "japanese": "赤ちゃんが泣いています。",
+    "furigana": "あかちゃんが ないています。",
+    "translation": "O bebê está chorando.",
+    "keywords": [
+      "泣",
+      "いています",
+      "ちゃんが",
+      "赤"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 302,
+    "japanese": "秋の夜は涼しいです。",
+    "furigana": "あきの よるは すずしいです。",
+    "translation": "As noites de outono são frescas.",
+    "keywords": [
+      "秋",
+      "夜",
+      "しいです",
+      "涼"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 303,
+    "japanese": "雨が降りそうです。",
+    "furigana": "あめが ふりそうです。",
+    "translation": "Parece que vai chover.",
+    "keywords": [
+      "降",
+      "りそうです",
+      "雨"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 304,
+    "japanese": "飴、何味がいい？",
+    "furigana": "あめ、なにあじが いい？",
+    "translation": "Que sabor de doce você quer?",
+    "keywords": [
+      "がいい",
+      "飴何味"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 305,
+    "japanese": "姉の部屋は綺麗です。",
+    "furigana": "あねの へやは きれいです。",
+    "translation": "O quarto da minha irmã é limpo.",
+    "keywords": [
+      "綺麗",
+      "姉",
+      "部屋",
+      "です"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 306,
+    "japanese": "兄と一緒に住んでいます。",
+    "furigana": "あにと いっしょに すんでいます。",
+    "translation": "Moro junto com meu irmão.",
+    "keywords": [
+      "住",
+      "んでいます",
+      "兄",
+      "一緒"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 307,
+    "japanese": "青くて大きい海です。",
+    "furigana": "あおくて おおきい うみです。",
+    "translation": "É um mar azul e grande.",
+    "keywords": [
+      "青",
+      "大",
+      "海",
+      "きい",
+      "です"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 308,
+    "japanese": "アパートの鍵を忘れました。",
+    "furigana": "アパートの かぎを わすれました。",
+    "translation": "Esqueci a chave do apartamento.",
+    "keywords": [
+      "忘",
+      "アパートの",
+      "鍵",
+      "れました"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 309,
+    "japanese": "朝のコーヒーが好きです。",
+    "furigana": "あさの コーヒーが すきです。",
+    "translation": "Gosto de café de manhã.",
+    "keywords": [
+      "のコーヒーが",
+      "朝",
+      "きです",
+      "好"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 310,
+    "japanese": "朝ご飯抜いた。",
+    "furigana": "あさごはん ぬいた。",
+    "translation": "Pulei o café da manhã.",
+    "keywords": [
+      "朝",
+      "飯抜",
+      "いた"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 311,
+    "japanese": "明後日は暇ですか。",
+    "furigana": "あさっては ひまですか。",
+    "translation": "Você está livre depois de amanhã?",
+    "keywords": [
+      "暇",
+      "ですか",
+      "明後日"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 312,
+    "japanese": "足をくじきました。",
+    "furigana": "あしを くじきました。",
+    "translation": "Torci o pé.",
+    "keywords": [
+      "をくじきました",
+      "足"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 313,
+    "japanese": "明日会えますか。",
+    "furigana": "あした あえますか。",
+    "translation": "Podemos nos ver amanhã?",
+    "keywords": [
+      "えますか",
+      "明日会"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 314,
+    "japanese": "頭が良すぎます。",
+    "furigana": "あたまが よすぎます。",
+    "translation": "É inteligente demais.",
+    "keywords": [
+      "頭",
+      "良",
+      "すぎます"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 315,
+    "japanese": "後五分待ってください。",
+    "furigana": "あと ごふん まって ください。",
+    "translation": "Espere mais cinco minutos, por favor.",
+    "keywords": [
+      "ってください",
+      "後五分待"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 316,
+    "japanese": "晩ご飯の時間です。",
+    "furigana": "ばんごはんの じかんです。",
+    "translation": "É hora do jantar.",
+    "keywords": [
+      "時間",
+      "晩",
+      "です",
+      "飯"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 317,
+    "japanese": "番号札を取ってください。",
+    "furigana": "ばんごうふだを とって ください。",
+    "translation": "Pegue uma senha, por favor.",
+    "keywords": [
+      "番号札",
+      "ってください",
+      "取"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 318,
+    "japanese": "バス停はどこですか。",
+    "furigana": "バスていは どこですか。",
+    "translation": "Onde é o ponto de ônibus?",
+    "keywords": [
+      "停",
+      "はどこですか",
+      "バス"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 319,
+    "japanese": "バター塗って。",
+    "furigana": "バター ぬって。",
+    "translation": "Passa manteiga.",
+    "keywords": [
+      "塗",
+      "って",
+      "バター"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 320,
+    "japanese": "ベッドメイキングしました。",
+    "furigana": "ベッドメイキング しました。",
+    "translation": "Arrumei a cama.",
+    "keywords": [
+      "ベッドメイキングしました"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 321,
+    "japanese": "勉強したくない。",
+    "furigana": "べんきょうしたくない。",
+    "translation": "Não quero estudar.",
+    "keywords": [
+      "したくない",
+      "勉強"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 322,
+    "japanese": "ボールペンを忘れました。",
+    "furigana": "ボールペンを わすれました。",
+    "translation": "Esqueci a caneta.",
+    "keywords": [
+      "忘",
+      "ボールペンを",
+      "れました"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 323,
+    "japanese": "ボタンを押しました。",
+    "furigana": "ボタンを おしました。",
+    "translation": "Apertei o botão.",
+    "keywords": [
+      "押",
+      "ボタンを",
+      "しました"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 324,
+    "japanese": "帽子似合ってる。",
+    "furigana": "ぼうし にあってる。",
+    "translation": "O chapéu te combina.",
+    "keywords": [
+      "ってる",
+      "帽子似合"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 325,
+    "japanese": "文章の意味を教えてください。",
+    "furigana": "ぶんしょうの いみを おしえて ください。",
+    "translation": "Me ensine o significado da frase, por favor.",
+    "keywords": [
+      "意味",
+      "文章",
+      "教",
+      "えてください"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 326,
+    "japanese": "豚肉が安かったです。",
+    "furigana": "ぶたにくが やすかったです。",
+    "translation": "A carne de porco estava barata.",
+    "keywords": [
+      "かったです",
+      "安",
+      "豚肉"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 327,
+    "japanese": "病院は遠いですか。",
+    "furigana": "びょういんは とおいですか。",
+    "translation": "O hospital é longe?",
+    "keywords": [
+      "病院",
+      "遠",
+      "いですか"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 328,
+    "japanese": "病気で寝ています。",
+    "furigana": "びょうきで ねています。",
+    "translation": "Estou deitado por estar doente.",
+    "keywords": [
+      "病気",
+      "寝",
+      "ています"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 329,
+    "japanese": "茶色の靴が欲しいです。",
+    "furigana": "ちゃいろの くつが ほしいです。",
+    "translation": "Quero sapatos marrons.",
+    "keywords": [
+      "靴",
+      "茶色",
+      "欲",
+      "しいです"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 330,
+    "japanese": "茶碗、もう一つください。",
+    "furigana": "ちゃわん、もう ひとつ ください。",
+    "translation": "Me dê mais uma tigela, por favor.",
+    "keywords": [
+      "茶碗",
+      "一",
+      "つください",
+      "もう"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 331,
+    "japanese": "先生にお会いできて光栄です。",
+    "furigana": "せんせいに おあいできて こうえいです。",
+    "translation": "É uma honra poder conhecê-lo, professor.",
+    "keywords": [
+      "です",
+      "光栄",
+      "にお",
+      "先生",
+      "いできて"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 332,
+    "japanese": "明日友達に会う予定だ。",
+    "furigana": "あした ともだちに あう よていだ。",
+    "translation": "Amanhã vou encontrar um amigo.",
+    "keywords": [
+      "予定",
+      "会",
+      "明日友達"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 333,
+    "japanese": "ねえ、昨日誰に会ったの？",
+    "furigana": "ねえ、きのう だれに あったの？",
+    "translation": "Ei, com quem você se encontrou ontem?",
+    "keywords": [
+      "昨日誰",
+      "ねえ",
+      "会",
+      "ったの"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 334,
+    "japanese": "彼に会えてよかったね。",
+    "furigana": "かれに あえて よかったね。",
+    "translation": "Que bom que você pôde vê-lo, né?",
+    "keywords": [
+      "えてよかったね",
+      "会",
+      "彼"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 335,
+    "japanese": "来週社長に会います。",
+    "furigana": "らいしゅう しゃちょうに あいます。",
+    "translation": "Vou me encontrar com o presidente na próxima semana.",
+    "keywords": [
+      "います",
+      "会",
+      "来週社長"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 336,
+    "japanese": "青い空がまことに美しゅうございます。",
+    "furigana": "あおい そらが まことに うつくしゅう ございます。",
+    "translation": "O céu azul está verdadeiramente belo.",
+    "keywords": [
+      "空",
+      "美",
+      "がまことに",
+      "しゅうございます",
+      "青"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 337,
+    "japanese": "このシャツは青い。",
+    "furigana": "この シャツは あおい。",
+    "translation": "Essa camisa é azul.",
+    "keywords": [
+      "青",
+      "このシャツは"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 338,
+    "japanese": "その車、青すぎじゃね？",
+    "furigana": "その くるま、あおすぎじゃね？",
+    "translation": "Esse carro não tá azul demais?",
+    "keywords": [
+      "その",
+      "車青",
+      "すぎじゃね"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 339,
+    "japanese": "海の青が好きだな。",
+    "furigana": "うみの あおが すきだな。",
+    "translation": "Gosto do azul do mar.",
+    "keywords": [
+      "海",
+      "青",
+      "きだな",
+      "好"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 340,
+    "japanese": "青いペンを使いますか。",
+    "furigana": "あおい ペンを つかいますか。",
+    "translation": "Você vai usar a caneta azul?",
+    "keywords": [
+      "使",
+      "青",
+      "いペンを",
+      "いますか"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 341,
+    "japanese": "赤いドレスがたいそうお似合いでございます。",
+    "furigana": "あかい ドレスが たいそう おにあいで ございます。",
+    "translation": "O vestido vermelho lhe cai muitíssimo bem.",
+    "keywords": [
+      "いドレスがたいそうお",
+      "いでございます",
+      "赤",
+      "似合"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 342,
+    "japanese": "彼女は赤い傘を持っていた。",
+    "furigana": "かのじょは あかい かさを もっていた。",
+    "translation": "Ela estava com um guarda-chuva vermelho.",
+    "keywords": [
+      "傘",
+      "持",
+      "赤",
+      "っていた",
+      "彼女"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 343,
+    "japanese": "赤ってマジで目立つな。",
+    "furigana": "あかって マジで めだつな。",
+    "translation": "Vermelho chama muita atenção mesmo.",
+    "keywords": [
+      "目立",
+      "ってマジで",
+      "赤",
+      "つな"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 344,
+    "japanese": "赤い花がきれいだね。",
+    "furigana": "あかい はなが きれいだね。",
+    "translation": "As flores vermelhas são bonitas, né?",
+    "keywords": [
+      "がきれいだね",
+      "花",
+      "赤"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 345,
+    "japanese": "赤い車を買いました。",
+    "furigana": "あかい くるまを かいました。",
+    "translation": "Comprei um carro vermelho.",
+    "keywords": [
+      "いました",
+      "車",
+      "赤",
+      "買"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 346,
+    "japanese": "この部屋は明るくて誠に気持ちがよろしゅうございます。",
+    "furigana": "この へやは あかるくて まことに きもちが よろしゅう ございます。",
+    "translation": "Este quarto é claro e verdadeiramente agradável.",
+    "keywords": [
+      "この",
+      "誠",
+      "るくて",
+      "明",
+      "部屋"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 347,
+    "japanese": "明るい人が好きだ。",
+    "furigana": "あかるい ひとが すきだ。",
+    "translation": "Gosto de pessoas alegres.",
+    "keywords": [
+      "好",
+      "きだ",
+      "人",
+      "明",
+      "るい"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 348,
+    "japanese": "外、めっちゃ明るいな！",
+    "furigana": "そと、めっちゃ あかるいな！",
+    "translation": "Lá fora tá muito claro!",
+    "keywords": [
+      "るいな",
+      "めっちゃ",
+      "外",
+      "明"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 349,
+    "japanese": "明るい部屋で勉強しよう。",
+    "furigana": "あかるい へやで べんきょうしよう。",
+    "translation": "Vamos estudar num quarto bem iluminado.",
+    "keywords": [
+      "勉強",
+      "明",
+      "部屋",
+      "るい",
+      "しよう"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 350,
+    "japanese": "明るいところで読んでください。",
+    "furigana": "あかるい ところで よんでください。",
+    "translation": "Por favor, leia em um lugar bem iluminado.",
+    "keywords": [
+      "読",
+      "んでください",
+      "明",
+      "るいところで"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 351,
+    "japanese": "秋の紅葉がまことに美しゅうございますね。",
+    "furigana": "あきの こうようが まことに うつくしゅう ございますね。",
+    "translation": "As folhas do outono estão verdadeiramente lindas, não é?",
+    "keywords": [
+      "しゅうございますね",
+      "美",
+      "がまことに",
+      "紅葉",
+      "秋"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 352,
+    "japanese": "秋になると風が涼しくなる。",
+    "furigana": "あきに なると かぜが すずしくなる。",
+    "translation": "No outono, o vento fica mais fresco.",
+    "keywords": [
+      "になると",
+      "涼",
+      "風",
+      "秋",
+      "しくなる"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 353,
+    "japanese": "秋って一番いい季節じゃん。",
+    "furigana": "あきって いちばん いい きせつじゃん。",
+    "translation": "O outono é a melhor estação, né?",
+    "keywords": [
+      "季節",
+      "って",
+      "一番",
+      "いい",
+      "秋"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 354,
+    "japanese": "秋は食べ物がおいしいよね。",
+    "furigana": "あきは たべものが おいしいよね。",
+    "translation": "A comida é boa no outono, né?",
+    "keywords": [
+      "秋",
+      "物",
+      "食",
+      "がおいしいよね"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 355,
+    "japanese": "秋に旅行したいです。",
+    "furigana": "あきに りょこうしたいです。",
+    "translation": "Quero viajar no outono.",
+    "keywords": [
+      "秋",
+      "したいです",
+      "旅行"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 356,
+    "japanese": "ドアが開きました。",
+    "furigana": "ドアが あきました。",
+    "translation": "A porta se abriu.",
+    "keywords": [
+      "ドアが",
+      "開",
+      "きました"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 357,
+    "japanese": "窓が開いてる。",
+    "furigana": "まどが あいてる。",
+    "translation": "A janela está aberta.",
+    "keywords": [
+      "開",
+      "いてる",
+      "窓"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 358,
+    "japanese": "え、ドア勝手に開いたんだけど！",
+    "furigana": "え、ドア かってに あいたんだけど！",
+    "translation": "Ei, a porta abriu sozinha!",
+    "keywords": [
+      "開",
+      "いたんだけど",
+      "勝手",
+      "えドア"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 359,
+    "japanese": "店が開いてるか見てみよう。",
+    "furigana": "みせが あいてるか みてみよう。",
+    "translation": "Vamos ver se a loja está aberta.",
+    "keywords": [
+      "開",
+      "いてるか",
+      "見",
+      "てみよう",
+      "店"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 360,
+    "japanese": "この部屋の窓が開いています。",
+    "furigana": "この へやの まどが あいています。",
+    "translation": "A janela deste quarto está aberta.",
+    "keywords": [
+      "この",
+      "開",
+      "窓",
+      "部屋",
+      "いています"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 361,
+    "japanese": "窓を開けていただけますでしょうか。",
+    "furigana": "まどを あけて いただけますでしょうか。",
+    "translation": "Poderia abrir a janela, por favor?",
+    "keywords": [
+      "開",
+      "窓",
+      "けていただけますでしょうか"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 362,
+    "japanese": "ちょっとドア開けて。",
+    "furigana": "ちょっと ドア あけて。",
+    "translation": "Abre a porta um pouco.",
+    "keywords": [
+      "ちょっとドア",
+      "開",
+      "けて"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 363,
+    "japanese": "窓開けろよ！",
+    "furigana": "まど あけろよ！",
+    "translation": "Abre a janela, pô!",
+    "keywords": [
+      "けろよ",
+      "窓開"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 364,
+    "japanese": "ドアを開けてね。",
+    "furigana": "ドアを あけてね。",
+    "translation": "Abre a porta, tá bom?",
+    "keywords": [
+      "開",
+      "ドアを",
+      "けてね"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 365,
+    "japanese": "ドアを開けます。",
+    "furigana": "ドアを あけます。",
+    "translation": "Vou abrir a porta.",
+    "keywords": [
+      "けます",
+      "開",
+      "ドアを"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 366,
+    "japanese": "先生にプレゼントをお渡しいたしました。",
+    "furigana": "せんせいに プレゼントを おわたし いたしました。",
+    "translation": "Entreguei um presente ao professor.",
+    "keywords": [
+      "しいたしました",
+      "渡",
+      "先生",
+      "にプレゼントをお"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 367,
+    "japanese": "友達に本をあげた。",
+    "furigana": "ともだちに ほんを あげた。",
+    "translation": "Dei um livro para um amigo.",
+    "keywords": [
+      "本",
+      "をあげた",
+      "友達"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 368,
+    "japanese": "ほら、これあげる！",
+    "furigana": "ほら、これ あげる！",
+    "translation": "Toma, é pra você!",
+    "keywords": [
+      "ほらこれあげる"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 369,
+    "japanese": "妹にお菓子をあげたよ。",
+    "furigana": "いもうとに おかしを あげたよ。",
+    "translation": "Dei doces pra minha irmã.",
+    "keywords": [
+      "菓子",
+      "にお",
+      "をあげたよ",
+      "妹"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 370,
+    "japanese": "お土産をあげます。",
+    "furigana": "おみやげを あげます。",
+    "translation": "Vou lhe dar uma lembrança.",
+    "keywords": [
+      "をあげます",
+      "土産"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 371,
+    "japanese": "朝早くから活動いたしております。",
+    "furigana": "あさ はやくから かつどう いたしております。",
+    "translation": "Estou em atividade desde cedo pela manhã.",
+    "keywords": [
+      "活動",
+      "いたしております",
+      "朝早",
+      "くから"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 372,
+    "japanese": "朝はパンを食べる。",
+    "furigana": "あさは パンを たべる。",
+    "translation": "De manhã, eu como pão.",
+    "keywords": [
+      "べる",
+      "朝",
+      "食",
+      "はパンを"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 373,
+    "japanese": "朝マジで起きれねー。",
+    "furigana": "あさ マジで おきれねー。",
+    "translation": "Não consigo acordar de manhã, sério.",
+    "keywords": [
+      "きれねー",
+      "朝",
+      "起",
+      "マジで"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 374,
+    "japanese": "朝はコーヒーがないとだめだよ。",
+    "furigana": "あさは コーヒーが ないと だめだよ。",
+    "translation": "Sem café de manhã não dá.",
+    "keywords": [
+      "はコーヒーがないとだめだよ",
+      "朝"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 375,
+    "japanese": "毎朝ジョギングをします。",
+    "furigana": "まいあさ ジョギングを します。",
+    "translation": "Faço corrida toda manhã.",
+    "keywords": [
+      "毎朝",
+      "ジョギングをします"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 376,
+    "japanese": "朝食を召し上がりましたでしょうか。",
+    "furigana": "ちょうしょくを めしあがりましたでしょうか。",
+    "translation": "O senhor já tomou o desjejum?",
+    "keywords": [
+      "召",
+      "朝食",
+      "上",
+      "がりましたでしょうか"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 377,
+    "japanese": "朝ご飯食べた？",
+    "furigana": "あさごはん たべた？",
+    "translation": "Comeu café da manhã?",
+    "keywords": [
+      "飯食",
+      "べた",
+      "朝"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 378,
+    "japanese": "朝メシまだ？",
+    "furigana": "あさメシ まだ？",
+    "translation": "Ainda não tem café?",
+    "keywords": [
+      "朝",
+      "メシまだ"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 379,
+    "japanese": "朝ご飯はパンだったよ。",
+    "furigana": "あさごはんは パンだったよ。",
+    "translation": "Tomei pão no café da manhã.",
+    "keywords": [
+      "はパンだったよ",
+      "朝",
+      "飯"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 380,
+    "japanese": "朝ご飯を食べます。",
+    "furigana": "あさごはんを たべます。",
+    "translation": "Tomo café da manhã.",
+    "keywords": [
+      "べます",
+      "朝",
+      "食",
+      "飯"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 381,
+    "japanese": "あさっての会議を心待ちにいたしております。",
+    "furigana": "あさっての かいぎを こころまちに いたしております。",
+    "translation": "Aguardo ansiosamente a reunião depois de amanhã.",
+    "keywords": [
+      "会議",
+      "心待",
+      "あさっての",
+      "ちにいたしております"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 382,
+    "japanese": "あさって友達と映画を見る。",
+    "furigana": "あさって ともだちと えいがを みる。",
+    "translation": "Vou ver um filme com um amigo depois de amanhã.",
+    "keywords": [
+      "映画",
+      "あさって",
+      "見",
+      "友達"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 383,
+    "japanese": "あさってヒマ？",
+    "furigana": "あさって ヒマ？",
+    "translation": "Tá livre depois de amanhã?",
+    "keywords": [
+      "あさってヒマ"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 384,
+    "japanese": "あさっては雨らしいよ。",
+    "furigana": "あさっては あめらしいよ。",
+    "translation": "Parece que vai chover depois de amanhã.",
+    "keywords": [
+      "雨",
+      "らしいよ",
+      "あさっては"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 385,
+    "japanese": "あさって出発します。",
+    "furigana": "あさって しゅっぱつします。",
+    "translation": "Parto depois de amanhã.",
+    "keywords": [
+      "します",
+      "出発",
+      "あさって"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 386,
+    "japanese": "お足をお大事になさいませ。",
+    "furigana": "おあしを おだいじに なさいませ。",
+    "translation": "Cuide bem da sua perna, por favor.",
+    "keywords": [
+      "になさいませ",
+      "大事",
+      "足",
+      "をお"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 387,
+    "japanese": "足が痛い。",
+    "furigana": "あしが いたい。",
+    "translation": "Minha perna dói.",
+    "keywords": [
+      "痛",
+      "足"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 388,
+    "japanese": "足つった！",
+    "furigana": "あし つった！",
+    "translation": "Deu cãibra na perna!",
+    "keywords": [
+      "足",
+      "つった"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 389,
+    "japanese": "足が長いね。",
+    "furigana": "あしが ながいね。",
+    "translation": "Suas pernas são longas, hein.",
+    "keywords": [
+      "いね",
+      "長",
+      "足"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 390,
+    "japanese": "足をけがしました。",
+    "furigana": "あしを けがしました。",
+    "translation": "Machuquei a perna.",
+    "keywords": [
+      "をけがしました",
+      "足"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 391,
+    "japanese": "明日はお休みでございます。",
+    "furigana": "あしたは おやすみで ございます。",
+    "translation": "Amanhã é feriado.",
+    "keywords": [
+      "はお",
+      "みでございます",
+      "明日",
+      "休"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 392,
+    "japanese": "明日映画に行く。",
+    "furigana": "あした えいがに いく。",
+    "translation": "Amanhã vou ao cinema.",
+    "keywords": [
+      "明日映画",
+      "行"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 393,
+    "japanese": "明日ヤバいテストあるんだよ。",
+    "furigana": "あした ヤバい テスト あるんだよ。",
+    "translation": "Tenho uma prova tensa amanhã.",
+    "keywords": [
+      "ヤバいテストあるんだよ",
+      "明日"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 394,
+    "japanese": "明日は仕事だよ。",
+    "furigana": "あしたは しごとだよ。",
+    "translation": "Amanhã tenho trabalho.",
+    "keywords": [
+      "仕事",
+      "だよ",
+      "明日"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 395,
+    "japanese": "明日お会いしましょう。",
+    "furigana": "あした おあいしましょう。",
+    "translation": "Vamos nos ver amanhã.",
+    "keywords": [
+      "会",
+      "明日",
+      "いしましょう"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 396,
+    "japanese": "あそこは静かで美しい場所でございます。",
+    "furigana": "あそこは しずかで うつくしい ばしょで ございます。",
+    "translation": "Aquele lugar é calmo e bonito.",
+    "keywords": [
+      "でございます",
+      "美",
+      "あそこは",
+      "静",
+      "しい"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 397,
+    "japanese": "あそこにコンビニがある。",
+    "furigana": "あそこに コンビニが ある。",
+    "translation": "Tem uma loja de conveniência ali.",
+    "keywords": [
+      "あそこにコンビニがある"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 398,
+    "japanese": "あそこ行こうぜ！",
+    "furigana": "あそこ いこうぜ！",
+    "translation": "Bora lá!",
+    "keywords": [
+      "あそこ",
+      "こうぜ",
+      "行"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 399,
+    "japanese": "あそこは人が多いよ。",
+    "furigana": "あそこは ひとが おおいよ。",
+    "translation": "Lá tem muita gente.",
+    "keywords": [
+      "人",
+      "あそこは",
+      "いよ",
+      "多"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 400,
+    "japanese": "あそこにございます。",
+    "furigana": "あそこに ございます。",
+    "translation": "Está ali.",
+    "keywords": [
+      "あそこにございます"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 401,
+    "japanese": "子供たちは公園で遊んでおります。",
+    "furigana": "こどもたちは こうえんで あそんでおります。",
+    "translation": "As crianças estão brincando no parque.",
+    "keywords": [
+      "遊",
+      "たちは",
+      "んでおります",
+      "子供",
+      "公園"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 402,
+    "japanese": "友達とゲームで遊ぶ。",
+    "furigana": "ともだちと ゲームで あそぶ。",
+    "translation": "Brinco com meus amigos em jogos.",
+    "keywords": [
+      "とゲームで",
+      "遊",
+      "友達"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 403,
+    "japanese": "今日はずっと遊んでたわ。",
+    "furigana": "きょうは ずっと あそんでたわ。",
+    "translation": "Fiquei brincando o dia todo hoje.",
+    "keywords": [
+      "今日",
+      "遊",
+      "はずっと",
+      "んでたわ"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 404,
+    "japanese": "週末は子供と遊ぶよ。",
+    "furigana": "しゅうまつは こどもと あそぶよ。",
+    "translation": "Brinco com meu filho no fim de semana.",
+    "keywords": [
+      "ぶよ",
+      "子供",
+      "週末",
+      "遊"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 405,
+    "japanese": "子供たちは外で遊びます。",
+    "furigana": "こどもたちは そとで あそびます。",
+    "translation": "As crianças brincam lá fora.",
+    "keywords": [
+      "びます",
+      "遊",
+      "外",
+      "たちは",
+      "子供"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 406,
+    "japanese": "温かいお茶をお持ちいたしました。",
+    "furigana": "あたたかい おちゃを おもち いたしました。",
+    "translation": "Trouxe um chá quente.",
+    "keywords": [
+      "かいお",
+      "持",
+      "茶",
+      "をお",
+      "温"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 407,
+    "japanese": "温かいスープが好き。",
+    "furigana": "あたたかい スープが すき。",
+    "translation": "Gosto de sopa quente.",
+    "keywords": [
+      "かいスープが",
+      "温",
+      "好"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 408,
+    "japanese": "温かいっていうか、もう熱い！",
+    "furigana": "あたたかいって いうか、もう あつい！",
+    "translation": "Quente? Tá fervendo!",
+    "keywords": [
+      "温",
+      "熱",
+      "かいっていうかもう"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 409,
+    "japanese": "温かい布団は気持ちいいね。",
+    "furigana": "あたたかい ふとんは きもちいいね。",
+    "translation": "O cobertor quentinho é gostoso, né?",
+    "keywords": [
+      "布団",
+      "かい",
+      "温",
+      "ちいいね",
+      "気持"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 410,
+    "japanese": "温かいコーヒーをいただきます。",
+    "furigana": "あたたかい コーヒーを いただきます。",
+    "translation": "Vou tomar café quente.",
+    "keywords": [
+      "温",
+      "かいコーヒーをいただきます"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 411,
+    "japanese": "お頭をお冷やしくださいませ。",
+    "furigana": "おあたまを おひやし くださいませ。",
+    "translation": "Por favor, acalme-se.",
+    "keywords": [
+      "頭",
+      "やしくださいませ",
+      "冷",
+      "をお"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 412,
+    "japanese": "頭が痛い。",
+    "furigana": "あたまが いたい。",
+    "translation": "Estou com dor de cabeça.",
+    "keywords": [
+      "頭",
+      "痛"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 413,
+    "japanese": "頭おかしいんじゃね？",
+    "furigana": "あたま おかしいんじゃね？",
+    "translation": "Tá doido, é?",
+    "keywords": [
+      "頭",
+      "おかしいんじゃね"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 414,
+    "japanese": "頭を使えよ。",
+    "furigana": "あたまを つかえよ。",
+    "translation": "Usa a cabeça, cara.",
+    "keywords": [
+      "頭",
+      "使",
+      "えよ"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 415,
+    "japanese": "頭がよろしいですね。",
+    "furigana": "あたまが よろしいですね。",
+    "translation": "Você é inteligente, né?",
+    "keywords": [
+      "頭",
+      "がよろしいですね"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 416,
+    "japanese": "新しいプロジェクトを開始いたしました。",
+    "furigana": "あたらしい プロジェクトを かいし いたしました。",
+    "translation": "Iniciamos um novo projeto.",
+    "keywords": [
+      "いたしました",
+      "しいプロジェクトを",
+      "開始",
+      "新"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 417,
+    "japanese": "新しい靴を買った。",
+    "furigana": "あたらしい くつを かった。",
+    "translation": "Comprei sapatos novos.",
+    "keywords": [
+      "買",
+      "新",
+      "った",
+      "靴",
+      "しい"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 418,
+    "japanese": "新しいスマホめっちゃ高い！",
+    "furigana": "あたらしい スマホ めっちゃ たかい！",
+    "translation": "O celular novo tá caríssimo!",
+    "keywords": [
+      "高",
+      "しいスマホめっちゃ",
+      "新"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 419,
+    "japanese": "新しい映画見た？",
+    "furigana": "あたらしい えいが みた？",
+    "translation": "Viu o novo filme?",
+    "keywords": [
+      "しい",
+      "映画見",
+      "新"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 420,
+    "japanese": "新しい本を読みます。",
+    "furigana": "あたらしい ほんを よみます。",
+    "translation": "Vou ler um livro novo.",
+    "keywords": [
+      "読",
+      "新",
+      "本",
+      "しい",
+      "みます"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 421,
+    "japanese": "あちらの方が社長でいらっしゃいます。",
+    "furigana": "あちらの かたが しゃちょうで いらっしゃいます。",
+    "translation": "Aquela pessoa é o presidente.",
+    "keywords": [
+      "社長",
+      "あちらの",
+      "方",
+      "でいらっしゃいます"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 422,
+    "japanese": "あちらへどうぞ。",
+    "furigana": "あちらへ どうぞ。",
+    "translation": "Por aqui, por favor.",
+    "keywords": [
+      "あちらへどうぞ"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 423,
+    "japanese": "あっち行けよ！",
+    "furigana": "あっち いけよ！",
+    "translation": "Sai daqui, vai pra lá!",
+    "keywords": [
+      "あっち",
+      "けよ",
+      "行"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 424,
+    "japanese": "あちらに受付がありますよ。",
+    "furigana": "あちらに うけつけが ありますよ。",
+    "translation": "A recepção é por ali.",
+    "keywords": [
+      "受付",
+      "あちらに",
+      "がありますよ"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 425,
+    "japanese": "あちらにお座りください。",
+    "furigana": "あちらに おすわりください。",
+    "translation": "Por favor, sente-se ali.",
+    "keywords": [
+      "りください",
+      "座",
+      "あちらにお"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 426,
+    "japanese": "本日は暑うございますね。",
+    "furigana": "ほんじつは あつう ございますね。",
+    "translation": "Está bem quente hoje, não é?",
+    "keywords": [
+      "うございますね",
+      "暑",
+      "本日"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 427,
+    "japanese": "夏は暑くて大変だ。",
+    "furigana": "なつは あつくて たいへんだ。",
+    "translation": "O verão é difícil porque é quente.",
+    "keywords": [
+      "大変",
+      "夏",
+      "暑",
+      "くて"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 428,
+    "japanese": "今日マジで暑すぎ！",
+    "furigana": "きょう マジで あつすぎ！",
+    "translation": "Tá quente pra caramba hoje!",
+    "keywords": [
+      "すぎ",
+      "今日",
+      "暑",
+      "マジで"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 429,
+    "japanese": "外は暑いよ。",
+    "furigana": "そとは あついよ。",
+    "translation": "Tá quente lá fora.",
+    "keywords": [
+      "いよ",
+      "外",
+      "暑"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 430,
+    "japanese": "今日はとても暑いです。",
+    "furigana": "きょうは とても あついです。",
+    "translation": "Está muito quente hoje.",
+    "keywords": [
+      "今日",
+      "暑",
+      "いです",
+      "はとても"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 431,
+    "japanese": "この本は厚うございます。",
+    "furigana": "この ほんは あつう ございます。",
+    "translation": "Este livro é espesso.",
+    "keywords": [
+      "本",
+      "厚",
+      "この",
+      "うございます"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 432,
+    "japanese": "このパン、厚い。",
+    "furigana": "この パン、あつい。",
+    "translation": "Este pão é grosso.",
+    "keywords": [
+      "厚",
+      "このパン"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 433,
+    "japanese": "厚っ！食べづらっ！",
+    "furigana": "あつっ！たべづらっ！",
+    "translation": "Grosso demais! Difícil de comer!",
+    "keywords": [
+      "厚",
+      "べづらっ",
+      "食"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 434,
+    "japanese": "厚い布団で寝たいな。",
+    "furigana": "あつい ふとんで ねたいな。",
+    "translation": "Quero dormir num cobertor grosso.",
+    "keywords": [
+      "厚",
+      "布団",
+      "寝",
+      "たいな"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 435,
+    "japanese": "厚いステーキを焼きます。",
+    "furigana": "あつい ステーキを やきます。",
+    "translation": "Vou grelhar um bife grosso.",
+    "keywords": [
+      "厚",
+      "いステーキを",
+      "焼",
+      "きます"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 436,
+    "japanese": "あまり美しくございません。",
+    "furigana": "あまり うつくしく ございません。",
+    "translation": "Não é muito bonito.",
+    "keywords": [
+      "しくございません",
+      "あまり",
+      "美"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 437,
+    "japanese": "あまり食べない。",
+    "furigana": "あまり たべない。",
+    "translation": "Não como muito.",
+    "keywords": [
+      "あまり",
+      "べない",
+      "食"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 438,
+    "japanese": "あまりよくねーよ。",
+    "furigana": "あまり よくねーよ。",
+    "translation": "Não é muito bom não.",
+    "keywords": [
+      "あまりよくねーよ"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 439,
+    "japanese": "あまり好きじゃないな。",
+    "furigana": "あまり すきじゃないな。",
+    "translation": "Não gosto muito.",
+    "keywords": [
+      "あまり",
+      "好",
+      "きじゃないな"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 440,
+    "japanese": "あまり高くありません。",
+    "furigana": "あまり たかく ありません。",
+    "translation": "Não é muito caro.",
+    "keywords": [
+      "あまり",
+      "高",
+      "くありません"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 441,
+    "japanese": "本日は雨が降っております。",
+    "furigana": "ほんじつは あめが ふっております。",
+    "translation": "Hoje está chovendo.",
+    "keywords": [
+      "雨",
+      "っております",
+      "本日",
+      "降"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 442,
+    "japanese": "雨が嫌いだ。",
+    "furigana": "あめが きらいだ。",
+    "translation": "Não gosto de chuva.",
+    "keywords": [
+      "雨",
+      "いだ",
+      "嫌"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 443,
+    "japanese": "雨ふってるじゃん！",
+    "furigana": "あめ ふってるじゃん！",
+    "translation": "Tá chovendo!",
+    "keywords": [
+      "雨",
+      "ふってるじゃん"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 444,
+    "japanese": "雨が降りそうだね。",
+    "furigana": "あめが ふりそうだね。",
+    "translation": "Parece que vai chover, né?",
+    "keywords": [
+      "りそうだね",
+      "雨",
+      "降"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 445,
+    "japanese": "雨が降りますか。",
+    "furigana": "あめが ふりますか。",
+    "translation": "Vai chover?",
+    "keywords": [
+      "雨",
+      "りますか",
+      "降"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 446,
+    "japanese": "お手をお洗いくださいませ。",
+    "furigana": "おてを おあらい くださいませ。",
+    "translation": "Por favor, lave as mãos.",
+    "keywords": [
+      "手",
+      "洗",
+      "いくださいませ",
+      "をお"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 447,
+    "japanese": "服を洗う。",
+    "furigana": "ふくを あらう。",
+    "translation": "Vou lavar a roupa.",
+    "keywords": [
+      "洗",
+      "服"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 448,
+    "japanese": "洗っとけよ！",
+    "furigana": "あらっとけよ！",
+    "translation": "Lava logo isso aí!",
+    "keywords": [
+      "っとけよ",
+      "洗"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 449,
+    "japanese": "顔を洗おうか。",
+    "furigana": "かおを あらおうか。",
+    "translation": "Vamos lavar o rosto?",
+    "keywords": [
+      "洗",
+      "おうか",
+      "顔"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 450,
+    "japanese": "車を洗います。",
+    "furigana": "くるまを あらいます。",
+    "translation": "Vou lavar o carro.",
+    "keywords": [
+      "洗",
+      "います",
+      "車"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 451,
+    "japanese": "ここに本がございます。",
+    "furigana": "ここに ほんが ございます。",
+    "translation": "Há um livro aqui.",
+    "keywords": [
+      "本",
+      "がございます",
+      "ここに"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 452,
+    "japanese": "時間がある。",
+    "furigana": "じかんが ある。",
+    "translation": "Tenho tempo.",
+    "keywords": [
+      "時間",
+      "がある"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 453,
+    "japanese": "なんかある？",
+    "furigana": "なんか ある？",
+    "translation": "Tem alguma coisa?",
+    "keywords": [
+      "なんかある"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 454,
+    "japanese": "お金があるね。",
+    "furigana": "おかねが あるね。",
+    "translation": "Tem dinheiro, né?",
+    "keywords": [
+      "金",
+      "があるね"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 455,
+    "japanese": "駅の近くにコンビニがあります。",
+    "furigana": "えきの ちかくに コンビニが あります。",
+    "translation": "Tem uma loja de conveniência perto da estação.",
+    "keywords": [
+      "くにコンビニがあります",
+      "駅",
+      "近"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 456,
+    "japanese": "私は本を持っております。",
+    "furigana": "わたしは ほんを もっております。",
+    "translation": "Eu tenho um livro.",
+    "keywords": [
+      "本",
+      "私",
+      "持",
+      "っております"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 457,
+    "japanese": "ペンがある。",
+    "furigana": "ペンが ある。",
+    "translation": "Tenho caneta.",
+    "keywords": [
+      "ペンがある"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 458,
+    "japanese": "金ある？",
+    "furigana": "かね ある？",
+    "translation": "Tem grana?",
+    "keywords": [
+      "金",
+      "ある"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 459,
+    "japanese": "鍵があるよ。",
+    "furigana": "かぎが あるよ。",
+    "translation": "Tenho a chave.",
+    "keywords": [
+      "があるよ",
+      "鍵"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 460,
+    "japanese": "お金がありますか。",
+    "furigana": "おかねが ありますか。",
+    "translation": "Você tem dinheiro?",
+    "keywords": [
+      "金",
+      "がありますか"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 461,
+    "japanese": "学校まで歩いてまいります。",
+    "furigana": "がっこうまで あるいて まいります。",
+    "translation": "Vou caminhar até a escola.",
+    "keywords": [
+      "まで",
+      "いてまいります",
+      "歩",
+      "学校"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 462,
+    "japanese": "公園を歩く。",
+    "furigana": "こうえんを あるく。",
+    "translation": "Caminho no parque.",
+    "keywords": [
+      "歩",
+      "公園"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 463,
+    "japanese": "歩こーぜ！",
+    "furigana": "あるこーぜ！",
+    "translation": "Bora andar!",
+    "keywords": [
+      "歩",
+      "こーぜ"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 464,
+    "japanese": "一緒に歩こうよ。",
+    "furigana": "いっしょに あるこうよ。",
+    "translation": "Vamos caminhar juntos.",
+    "keywords": [
+      "こうよ",
+      "歩",
+      "一緒"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 465,
+    "japanese": "駅まで歩きます。",
+    "furigana": "えきまで あるきます。",
+    "translation": "Vou caminhar até a estação.",
+    "keywords": [
+      "まで",
+      "歩",
+      "駅",
+      "きます"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 466,
+    "japanese": "あれは私のものではございません。",
+    "furigana": "あれは わたしの ものでは ございません。",
+    "translation": "Aquilo não é meu.",
+    "keywords": [
+      "あれは",
+      "私",
+      "のものではございません"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 467,
+    "japanese": "あれは何だ。",
+    "furigana": "あれは なんだ。",
+    "translation": "O que é aquilo?",
+    "keywords": [
+      "あれは",
+      "何"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 468,
+    "japanese": "あれマジ？",
+    "furigana": "あれ マジ？",
+    "translation": "Aquilo é sério?",
+    "keywords": [
+      "あれマジ"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 469,
+    "japanese": "あれを見てよ。",
+    "furigana": "あれを みてよ。",
+    "translation": "Olha aquilo.",
+    "keywords": [
+      "てよ",
+      "あれを",
+      "見"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 470,
+    "japanese": "あれは本ですか。",
+    "furigana": "あれは ほんですか。",
+    "translation": "Aquilo é um livro?",
+    "keywords": [
+      "本",
+      "あれは",
+      "ですか"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 471,
+    "japanese": "このお料理はたいそうよろしゅうございます。",
+    "furigana": "この おりょうりは たいそう よろしゅう ございます。",
+    "translation": "Esta comida está muito boa.",
+    "keywords": [
+      "はたいそうよろしゅうございます",
+      "このお",
+      "料理"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 472,
+    "japanese": "いい天気だ。",
+    "furigana": "いい てんきだ。",
+    "translation": "O tempo está bom.",
+    "keywords": [
+      "天気",
+      "いい"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 473,
+    "japanese": "めっちゃいいじゃん！",
+    "furigana": "めっちゃ いいじゃん！",
+    "translation": "Tá muito bom!",
+    "keywords": [
+      "めっちゃいいじゃん"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 474,
+    "japanese": "いい映画だったね。",
+    "furigana": "いい えいがだったね。",
+    "translation": "Foi um bom filme, né?",
+    "keywords": [
+      "映画",
+      "だったね",
+      "いい"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 475,
+    "japanese": "これはいいですか。",
+    "furigana": "これは いいですか。",
+    "translation": "Isso está bom?",
+    "keywords": [
+      "これはいいですか"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 476,
+    "japanese": "いいえ、存じ上げません。",
+    "furigana": "いいえ、ぞんじあげません。",
+    "translation": "Não, não sei.",
+    "keywords": [
+      "いいえ",
+      "げません",
+      "存",
+      "上"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 477,
+    "japanese": "いいえ、違う。",
+    "furigana": "いいえ、ちがう。",
+    "translation": "Não, é diferente.",
+    "keywords": [
+      "いいえ",
+      "違"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 478,
+    "japanese": "いや、違うって！",
+    "furigana": "いや、ちがうって！",
+    "translation": "Não, não é isso!",
+    "keywords": [
+      "いや",
+      "うって",
+      "違"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 479,
+    "japanese": "いいえ、そうじゃないよ。",
+    "furigana": "いいえ、そうじゃないよ。",
+    "translation": "Não, não é assim.",
+    "keywords": [
+      "いいえそうじゃないよ"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 480,
+    "japanese": "いいえ、違います。",
+    "furigana": "いいえ、ちがいます。",
+    "translation": "Não, está errado.",
+    "keywords": [
+      "いいえ",
+      "います",
+      "違"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 481,
+    "japanese": "先生が申されました。",
+    "furigana": "せんせいが もうされました。",
+    "translation": "O professor disse.",
+    "keywords": [
+      "されました",
+      "先生",
+      "申"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 482,
+    "japanese": "彼がそう言った。",
+    "furigana": "かれが そう いった。",
+    "translation": "Ele disse isso.",
+    "keywords": [
+      "がそう",
+      "った",
+      "言",
+      "彼"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 483,
+    "japanese": "マジで言ってんの？",
+    "furigana": "マジで いってんの？",
+    "translation": "Tá falando sério?",
+    "keywords": [
+      "ってんの",
+      "言",
+      "マジで"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 484,
+    "japanese": "何て言ったの？",
+    "furigana": "なんて いったの？",
+    "translation": "O que você disse?",
+    "keywords": [
+      "言",
+      "何",
+      "ったの"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 485,
+    "japanese": "何と言いましたか。",
+    "furigana": "なんと いいましたか。",
+    "translation": "O que disse?",
+    "keywords": [
+      "言",
+      "何",
+      "いましたか"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 486,
+    "japanese": "こちらが私どもの家でございます。",
+    "furigana": "こちらが わたくしどもの いえで ございます。",
+    "translation": "Esta é a nossa casa.",
+    "keywords": [
+      "でございます",
+      "私",
+      "どもの",
+      "家",
+      "こちらが"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 487,
+    "japanese": "大きい家だ。",
+    "furigana": "おおきい いえだ。",
+    "translation": "É uma casa grande.",
+    "keywords": [
+      "家",
+      "きい",
+      "大"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 488,
+    "japanese": "家帰ろーぜ！",
+    "furigana": "いえ かえろーぜ！",
+    "translation": "Vamos pra casa!",
+    "keywords": [
+      "ろーぜ",
+      "家帰"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 489,
+    "japanese": "家に帰ろうよ。",
+    "furigana": "いえに かえろうよ。",
+    "translation": "Vamos voltar pra casa.",
+    "keywords": [
+      "家",
+      "帰",
+      "ろうよ"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 490,
+    "japanese": "家はどこですか。",
+    "furigana": "いえは どこですか。",
+    "translation": "Onde é sua casa?",
+    "keywords": [
+      "家",
+      "はどこですか"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 491,
+    "japanese": "どちらへいらっしゃいますか。",
+    "furigana": "どちらへ いらっしゃいますか。",
+    "translation": "Para onde vai?",
+    "keywords": [
+      "どちらへいらっしゃいますか"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 492,
+    "japanese": "学校に行く。",
+    "furigana": "がっこうに いく。",
+    "translation": "Vou pra escola.",
+    "keywords": [
+      "学校",
+      "行"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 493,
+    "japanese": "行こーよ！",
+    "furigana": "いこーよ！",
+    "translation": "Bora!",
+    "keywords": [
+      "こーよ",
+      "行"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 494,
+    "japanese": "一緒に行こうね。",
+    "furigana": "いっしょに いこうね。",
+    "translation": "Vamos juntos, tá?",
+    "keywords": [
+      "こうね",
+      "行",
+      "一緒"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 495,
+    "japanese": "明日行きます。",
+    "furigana": "あした いきます。",
+    "translation": "Vou amanhã.",
+    "keywords": [
+      "明日行",
+      "きます"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 496,
+    "japanese": "おいくつでいらっしゃいますか。",
+    "furigana": "おいくつで いらっしゃいますか。",
+    "translation": "Quantos anos o senhor tem?",
+    "keywords": [
+      "おいくつでいらっしゃいますか"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 497,
+    "japanese": "りんごはいくつある。",
+    "furigana": "りんごは いくつ ある。",
+    "translation": "Quantas maçãs tem?",
+    "keywords": [
+      "りんごはいくつある"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 498,
+    "japanese": "いくつ欲しいの？",
+    "furigana": "いくつ ほしいの？",
+    "translation": "Quantos você quer?",
+    "keywords": [
+      "欲",
+      "いくつ",
+      "しいの"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 499,
+    "japanese": "いくつ買おうか。",
+    "furigana": "いくつ かおうか。",
+    "translation": "Quantos vamos comprar?",
+    "keywords": [
+      "おうか",
+      "いくつ",
+      "買"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 500,
+    "japanese": "いくつありますか。",
+    "furigana": "いくつ ありますか。",
+    "translation": "Quantos há?",
+    "keywords": [
+      "いくつありますか"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 501,
+    "japanese": "おいくらでございますか。",
+    "furigana": "おいくらで ございますか。",
+    "translation": "Quanto custa?",
+    "keywords": [
+      "おいくらでございますか"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 502,
+    "japanese": "いくらだ。",
+    "furigana": "いくら だ。",
+    "translation": "Quanto é?",
+    "keywords": [
+      "いくらだ"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 503,
+    "japanese": "いくら？",
+    "furigana": "いくら？",
+    "translation": "Quanto?",
+    "keywords": [
+      "いくら"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 504,
+    "japanese": "これいくらかな。",
+    "furigana": "これ いくらかな。",
+    "translation": "Quanto será que é isso?",
+    "keywords": [
+      "これいくらかな"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 505,
+    "japanese": "いくらですか。",
+    "furigana": "いくら ですか。",
+    "translation": "Quanto custa?",
+    "keywords": [
+      "いくらですか"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 506,
+    "japanese": "池がございます。",
+    "furigana": "いけが ございます。",
+    "translation": "Há um lago.",
+    "keywords": [
+      "がございます",
+      "池"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 507,
+    "japanese": "池で魚が泳ぐ。",
+    "furigana": "いけで さかなが およぐ。",
+    "translation": "Peixes nadam no lago.",
+    "keywords": [
+      "泳",
+      "池",
+      "魚"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 508,
+    "japanese": "池でかいじゃん！",
+    "furigana": "いけ でかいじゃん！",
+    "translation": "O lago é enorme!",
+    "keywords": [
+      "池",
+      "でかいじゃん"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 509,
+    "japanese": "池がきれいだね。",
+    "furigana": "いけが きれいだね。",
+    "translation": "O lago é bonito, né?",
+    "keywords": [
+      "池",
+      "がきれいだね"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 510,
+    "japanese": "池があります。",
+    "furigana": "いけが あります。",
+    "translation": "Há um lago.",
+    "keywords": [
+      "池",
+      "があります"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 511,
+    "japanese": "お医者様にご相談ください。",
+    "furigana": "おいしゃさまに ごそうだん ください。",
+    "translation": "Por favor, consulte o médico.",
+    "keywords": [
+      "相談",
+      "医者様",
+      "ください",
+      "にご"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 512,
+    "japanese": "医者に行く。",
+    "furigana": "いしゃに いく。",
+    "translation": "Vou ao médico.",
+    "keywords": [
+      "行",
+      "医者"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 513,
+    "japanese": "医者行かなきゃ！",
+    "furigana": "いしゃ いかなきゃ！",
+    "translation": "Tenho que ir no médico!",
+    "keywords": [
+      "かなきゃ",
+      "医者行"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 514,
+    "japanese": "医者に診てもらおうよ。",
+    "furigana": "いしゃに みて もらおうよ。",
+    "translation": "Vamos no médico ver isso.",
+    "keywords": [
+      "診",
+      "医者",
+      "てもらおうよ"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 515,
+    "japanese": "医者に行きます。",
+    "furigana": "いしゃに いきます。",
+    "translation": "Vou ao médico.",
+    "keywords": [
+      "行",
+      "医者",
+      "きます"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 516,
+    "japanese": "どうぞこちらの椅子におかけください。",
+    "furigana": "どうぞ こちらの いすに おかけ ください。",
+    "translation": "Por favor, sente-se nesta cadeira.",
+    "keywords": [
+      "椅子",
+      "どうぞこちらの",
+      "におかけください"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 517,
+    "japanese": "椅子に座る。",
+    "furigana": "いすに すわる。",
+    "translation": "Sento na cadeira.",
+    "keywords": [
+      "椅子",
+      "座"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 518,
+    "japanese": "椅子取られた！",
+    "furigana": "いす とられた！",
+    "translation": "Roubaram minha cadeira!",
+    "keywords": [
+      "られた",
+      "椅子取"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 519,
+    "japanese": "椅子に座ろうか。",
+    "furigana": "いすに すわろうか。",
+    "translation": "Vamos sentar na cadeira?",
+    "keywords": [
+      "椅子",
+      "ろうか",
+      "座"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 520,
+    "japanese": "椅子が空いています。",
+    "furigana": "いすが あいています。",
+    "translation": "Há uma cadeira vaga.",
+    "keywords": [
+      "椅子",
+      "空",
+      "いています"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 521,
+    "japanese": "たいそうお忙しいことでございますね。",
+    "furigana": "たいそう おいそがしい ことで ございますね。",
+    "translation": "Está muito ocupado, não é?",
+    "keywords": [
+      "忙",
+      "たいそうお",
+      "しいことでございますね"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 522,
+    "japanese": "忙しいんだ。",
+    "furigana": "いそがしいんだ。",
+    "translation": "Estou ocupado.",
+    "keywords": [
+      "忙",
+      "しいんだ"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 523,
+    "japanese": "忙しすぎ！",
+    "furigana": "いそがしすぎ！",
+    "translation": "Ocupado demais!",
+    "keywords": [
+      "忙",
+      "しすぎ"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 524,
+    "japanese": "今日は忙しいよ。",
+    "furigana": "きょうは いそがしいよ。",
+    "translation": "Hoje estou ocupado.",
+    "keywords": [
+      "忙",
+      "今日",
+      "しいよ"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 525,
+    "japanese": "お痛みはございますか。",
+    "furigana": "おいたみは ございますか。",
+    "translation": "Sente dor?",
+    "keywords": [
+      "痛",
+      "みはございますか"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 526,
+    "japanese": "痛ぇ！",
+    "furigana": "いてぇ！",
+    "translation": "Dói!",
+    "keywords": [
+      "痛"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 527,
+    "japanese": "お腹が痛いよ。",
+    "furigana": "おなかが いたいよ。",
+    "translation": "Minha barriga dói.",
+    "keywords": [
+      "腹",
+      "いよ",
+      "痛"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 528,
+    "japanese": "足が痛いです。",
+    "furigana": "あしが いたいです。",
+    "translation": "Minha perna dói.",
+    "keywords": [
+      "いです",
+      "痛",
+      "足"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 529,
+    "japanese": "一番でございます。",
+    "furigana": "いちばんで ございます。",
+    "translation": "É o número um.",
+    "keywords": [
+      "でございます",
+      "一番"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 530,
+    "japanese": "一番だ。",
+    "furigana": "いちばんだ。",
+    "translation": "É o primeiro.",
+    "keywords": [
+      "一番"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 531,
+    "japanese": "一番じゃん！",
+    "furigana": "いちばんじゃん！",
+    "translation": "É o primeiro!",
+    "keywords": [
+      "一番",
+      "じゃん"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 532,
+    "japanese": "一番好きだよ。",
+    "furigana": "いちばん すきだよ。",
+    "translation": "É meu favorito.",
+    "keywords": [
+      "一番好",
+      "きだよ"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 533,
+    "japanese": "これが一番です。",
+    "furigana": "これが いちばんです。",
+    "translation": "Este é o melhor.",
+    "keywords": [
+      "です",
+      "一番",
+      "これが"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 534,
+    "japanese": "一日中お待ちいたしました。",
+    "furigana": "いちにちじゅう おまち いたしました。",
+    "translation": "Esperei o dia todo.",
+    "keywords": [
+      "一日中",
+      "待",
+      "ちいたしました"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 535,
+    "japanese": "一日中働いた。",
+    "furigana": "いちにちじゅう はたらいた。",
+    "translation": "Trabalhei o dia todo.",
+    "keywords": [
+      "一日中働",
+      "いた"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 536,
+    "japanese": "一日中寝てたわ。",
+    "furigana": "いちにちじゅう ねてたわ。",
+    "translation": "Dormi o dia todo.",
+    "keywords": [
+      "てたわ",
+      "一日中寝"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 537,
+    "japanese": "一日中雨だったね。",
+    "furigana": "いちにちじゅう あめだったね。",
+    "translation": "Choveu o dia todo, né?",
+    "keywords": [
+      "一日中雨",
+      "だったね"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 538,
+    "japanese": "一日中家にいます。",
+    "furigana": "いちにちじゅう いえに います。",
+    "translation": "Fico em casa o dia todo.",
+    "keywords": [
+      "にいます",
+      "一日中家"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 539,
+    "japanese": "一番お好きなものは何でございますか。",
+    "furigana": "いちばん おすきな ものは なんで ございますか。",
+    "translation": "Qual é seu favorito?",
+    "keywords": [
+      "好",
+      "一番",
+      "きなものは",
+      "何",
+      "でございますか"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 540,
+    "japanese": "一番好きなのはこれだ。",
+    "furigana": "いちばん すきなのは これだ。",
+    "translation": "Meu favorito é este.",
+    "keywords": [
+      "一番好",
+      "きなのはこれだ"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 541,
+    "japanese": "これが一番うめぇ！",
+    "furigana": "これが いちばん うめぇ！",
+    "translation": "Este é o mais gostoso!",
+    "keywords": [
+      "一番",
+      "うめぇ",
+      "これが"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 542,
+    "japanese": "どれが一番いい？",
+    "furigana": "どれが いちばん いい？",
+    "translation": "Qual é o melhor?",
+    "keywords": [
+      "どれが",
+      "一番",
+      "いい"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 543,
+    "japanese": "一番安いです。",
+    "furigana": "いちばん やすいです。",
+    "translation": "É o mais barato.",
+    "keywords": [
+      "一番安",
+      "いです"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 544,
+    "japanese": "いつお越しになりますか。",
+    "furigana": "いつ おこしに なりますか。",
+    "translation": "Quando virá?",
+    "keywords": [
+      "越",
+      "いつお",
+      "しになりますか"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 545,
+    "japanese": "いつ行く。",
+    "furigana": "いつ いく。",
+    "translation": "Quando vai?",
+    "keywords": [
+      "いつ",
+      "行"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 546,
+    "japanese": "いつ来んの？",
+    "furigana": "いつ くんの？",
+    "translation": "Quando você vem?",
+    "keywords": [
+      "いつ",
+      "来",
+      "んの"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 547,
+    "japanese": "いつ会えるかな。",
+    "furigana": "いつ あえるかな。",
+    "translation": "Quando podemos nos ver?",
+    "keywords": [
+      "えるかな",
+      "いつ",
+      "会"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 548,
+    "japanese": "いつ来ますか。",
+    "furigana": "いつ きますか。",
+    "translation": "Quando vem?",
+    "keywords": [
+      "ますか",
+      "いつ",
+      "来"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 549,
+    "japanese": "五日にお伺いいたします。",
+    "furigana": "いつかに おうかがい いたします。",
+    "translation": "Visitarei no dia cinco.",
+    "keywords": [
+      "伺",
+      "にお",
+      "いいたします",
+      "五日"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 550,
+    "japanese": "五日に行く。",
+    "furigana": "いつかに いく。",
+    "translation": "Vou no dia cinco.",
+    "keywords": [
+      "行",
+      "五日"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 551,
+    "japanese": "五日な！",
+    "furigana": "いつかな！",
+    "translation": "Dia cinco, tá!",
+    "keywords": [
+      "五日"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 552,
+    "japanese": "五日に会おうよ。",
+    "furigana": "いつかに あおうよ。",
+    "translation": "Vamos nos ver no dia cinco.",
+    "keywords": [
+      "おうよ",
+      "会",
+      "五日"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 553,
+    "japanese": "五日に出発します。",
+    "furigana": "いつかに しゅっぱつします。",
+    "translation": "Parto no dia cinco.",
+    "keywords": [
+      "出発",
+      "します",
+      "五日"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 554,
+    "japanese": "ご一緒させていただけますか。",
+    "furigana": "ごいっしょ させて いただけますか。",
+    "translation": "Posso acompanhá-lo?",
+    "keywords": [
+      "させていただけますか",
+      "一緒"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 555,
+    "japanese": "一緒に行くよ。",
+    "furigana": "いっしょに いくよ。",
+    "translation": "Vamos juntos.",
+    "keywords": [
+      "くよ",
+      "行",
+      "一緒"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 556,
+    "japanese": "一緒に行こーぜ！",
+    "furigana": "いっしょに いこーぜ！",
+    "translation": "Bora junto!",
+    "keywords": [
+      "こーぜ",
+      "行",
+      "一緒"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 557,
+    "japanese": "一緒に食べようか。",
+    "furigana": "いっしょに たべようか。",
+    "translation": "Vamos comer juntos?",
+    "keywords": [
+      "べようか",
+      "食",
+      "一緒"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 558,
+    "japanese": "一緒に行きましょう。",
+    "furigana": "いっしょに いきましょう。",
+    "translation": "Vamos juntos.",
+    "keywords": [
+      "きましょう",
+      "行",
+      "一緒"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 559,
+    "japanese": "五つございます。",
+    "furigana": "いつつ ございます。",
+    "translation": "Há cinco.",
+    "keywords": [
+      "つございます",
+      "五"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 560,
+    "japanese": "五つある。",
+    "furigana": "いつつ ある。",
+    "translation": "Tem cinco.",
+    "keywords": [
+      "つある",
+      "五"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 561,
+    "japanese": "五つもあんの？",
+    "furigana": "いつつも あんの？",
+    "translation": "Tem cinco?",
+    "keywords": [
+      "つもあんの",
+      "五"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 562,
+    "japanese": "五つ買おうよ。",
+    "furigana": "いつつ かおうよ。",
+    "translation": "Vamos comprar cinco.",
+    "keywords": [
+      "おうよ",
+      "五",
+      "買"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 563,
+    "japanese": "五つあります。",
+    "furigana": "いつつ あります。",
+    "translation": "Há cinco.",
+    "keywords": [
+      "五",
+      "つあります"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 564,
+    "japanese": "いつもお世話になっております。",
+    "furigana": "いつも おせわに なっております。",
+    "translation": "Sempre agradeço sua ajuda.",
+    "keywords": [
+      "いつもお",
+      "になっております",
+      "世話"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 565,
+    "japanese": "いつも遅刻する。",
+    "furigana": "いつも ちこくする。",
+    "translation": "Sempre me atraso.",
+    "keywords": [
+      "する",
+      "いつも",
+      "遅刻"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 566,
+    "japanese": "いつも忘れんじゃん！",
+    "furigana": "いつも わすれんじゃん！",
+    "translation": "Você sempre esquece!",
+    "keywords": [
+      "れんじゃん",
+      "いつも",
+      "忘"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 567,
+    "japanese": "いつもありがとうね。",
+    "furigana": "いつも ありがとうね。",
+    "translation": "Obrigado sempre.",
+    "keywords": [
+      "いつもありがとうね"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 568,
+    "japanese": "いつもここで買います。",
+    "furigana": "いつも ここで かいます。",
+    "translation": "Sempre compro aqui.",
+    "keywords": [
+      "います",
+      "買",
+      "いつもここで"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 569,
+    "japanese": "今すぐにお伺いいたします。",
+    "furigana": "いま すぐに おうかがい いたします。",
+    "translation": "Irei imediatamente.",
+    "keywords": [
+      "伺",
+      "今",
+      "すぐにお",
+      "いいたします"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 570,
+    "japanese": "今行く。",
+    "furigana": "いま いく。",
+    "translation": "Vou agora.",
+    "keywords": [
+      "今行"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 571,
+    "japanese": "今すぐ来いよ！",
+    "furigana": "いま すぐ こいよ！",
+    "translation": "Vem agora!",
+    "keywords": [
+      "いよ",
+      "今",
+      "来",
+      "すぐ"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 572,
+    "japanese": "今何時かな。",
+    "furigana": "いま なんじかな。",
+    "translation": "Que horas são agora?",
+    "keywords": [
+      "かな",
+      "今何時"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 573,
+    "japanese": "今何時ですか。",
+    "furigana": "いま なんじですか。",
+    "translation": "Que horas são?",
+    "keywords": [
+      "今何時",
+      "ですか"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 574,
+    "japanese": "その意味をお教えいただけますか。",
+    "furigana": "その いみを おおしえ いただけますか。",
+    "translation": "Poderia me ensinar esse significado?",
+    "keywords": [
+      "えいただけますか",
+      "をお",
+      "その",
+      "教",
+      "意味"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 575,
+    "japanese": "この意味は何だ。",
+    "furigana": "この いみは なんだ。",
+    "translation": "Qual é esse significado?",
+    "keywords": [
+      "この",
+      "意味",
+      "何"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 576,
+    "japanese": "どういう意味？",
+    "furigana": "どういう いみ？",
+    "translation": "Que significa?",
+    "keywords": [
+      "意味",
+      "どういう"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 577,
+    "japanese": "意味がわからないよ。",
+    "furigana": "いみが わからないよ。",
+    "translation": "Não entendo o significado.",
+    "keywords": [
+      "意味",
+      "がわからないよ"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 578,
+    "japanese": "この意味は何ですか。",
+    "furigana": "この いみは なんですか。",
+    "translation": "Qual é esse significado?",
+    "keywords": [
+      "ですか",
+      "この",
+      "意味",
+      "何"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 579,
+    "japanese": "こちらは私の妹でございます。",
+    "furigana": "こちらは わたくしの いもうとで ございます。",
+    "translation": "Esta é minha irmã mais nova.",
+    "keywords": [
+      "でございます",
+      "私",
+      "こちらは",
+      "妹"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 580,
+    "japanese": "妹は中学生だ。",
+    "furigana": "いもうとは ちゅうがくせいだ。",
+    "translation": "Minha irmã está no ensino fundamental.",
+    "keywords": [
+      "中学生",
+      "妹"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 581,
+    "japanese": "妹うるせー！",
+    "furigana": "いもうと うるせー！",
+    "translation": "Minha irmã é barulhenta!",
+    "keywords": [
+      "うるせー",
+      "妹"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 582,
+    "japanese": "妹は可愛いよ。",
+    "furigana": "いもうとは かわいいよ。",
+    "translation": "Minha irmã é fofa.",
+    "keywords": [
+      "いよ",
+      "可愛",
+      "妹"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 583,
+    "japanese": "妹は高校生です。",
+    "furigana": "いもうとは こうこうせいです。",
+    "translation": "Minha irmã está no ensino médio.",
+    "keywords": [
+      "です",
+      "高校生",
+      "妹"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 584,
+    "japanese": "それはまことに不快でございます。",
+    "furigana": "それは まことに ふかいで ございます。",
+    "translation": "Isso é verdadeiramente desagradável.",
+    "keywords": [
+      "でございます",
+      "それはまことに",
+      "不快"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 585,
+    "japanese": "嫌な天気だ。",
+    "furigana": "いやな てんきだ。",
+    "translation": "Que tempo ruim.",
+    "keywords": [
+      "天気",
+      "嫌"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 586,
+    "japanese": "マジ嫌なんだけど！",
+    "furigana": "マジ いやなんだけど！",
+    "translation": "Que ruim, sério!",
+    "keywords": [
+      "なんだけど",
+      "マジ",
+      "嫌"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 587,
+    "japanese": "嫌な感じだね。",
+    "furigana": "いやな かんじだね。",
+    "translation": "Que sensação ruim, né?",
+    "keywords": [
+      "じだね",
+      "感",
+      "嫌"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 588,
+    "japanese": "嫌です。",
+    "furigana": "いやです。",
+    "translation": "Não gosto.",
+    "keywords": [
+      "です",
+      "嫌"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 589,
+    "japanese": "入口はこちらでございます。",
+    "furigana": "いりぐちは こちらで ございます。",
+    "translation": "A entrada é por aqui.",
+    "keywords": [
+      "はこちらでございます",
+      "入口"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 590,
+    "japanese": "入口はあそこだ。",
+    "furigana": "いりぐちは あそこだ。",
+    "translation": "A entrada é ali.",
+    "keywords": [
+      "はあそこだ",
+      "入口"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 591,
+    "japanese": "入口どこ？",
+    "furigana": "いりぐち どこ？",
+    "translation": "Cadê a entrada?",
+    "keywords": [
+      "どこ",
+      "入口"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 592,
+    "japanese": "入口はどこかな。",
+    "furigana": "いりぐちは どこかな。",
+    "translation": "Onde será a entrada?",
+    "keywords": [
+      "はどこかな",
+      "入口"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 593,
+    "japanese": "入口はあそこです。",
+    "furigana": "いりぐちは あそこです。",
+    "translation": "A entrada é ali.",
+    "keywords": [
+      "はあそこです",
+      "入口"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 594,
+    "japanese": "パスポートが必要でございます。",
+    "furigana": "パスポートが ひつようで ございます。",
+    "translation": "É necessário passaporte.",
+    "keywords": [
+      "パスポートが",
+      "でございます",
+      "必要"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 595,
+    "japanese": "お金がいる。",
+    "furigana": "おかねが いる。",
+    "translation": "Preciso de dinheiro.",
+    "keywords": [
+      "がいる",
+      "金"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 596,
+    "japanese": "金いるじゃん！",
+    "furigana": "かね いるじゃん！",
+    "translation": "Precisa de grana!",
+    "keywords": [
+      "金",
+      "いるじゃん"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 597,
+    "japanese": "予約がいるよ。",
+    "furigana": "よやくが いるよ。",
+    "translation": "Precisa de reserva.",
+    "keywords": [
+      "がいるよ",
+      "予約"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 598,
+    "japanese": "チケットが要ります。",
+    "furigana": "チケットが いります。",
+    "translation": "É necessário ingresso.",
+    "keywords": [
+      "チケットが",
+      "ります",
+      "要"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 599,
+    "japanese": "そちらにいらっしゃいます。",
+    "furigana": "そちらに いらっしゃいます。",
+    "translation": "Está ali.",
+    "keywords": [
+      "そちらにいらっしゃいます"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 600,
+    "japanese": "部屋にいる。",
+    "furigana": "へやに いる。",
+    "translation": "Está no quarto.",
+    "keywords": [
+      "部屋",
+      "にいる"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 601,
+    "japanese": "どこいんの？",
+    "furigana": "どこ いんの？",
+    "translation": "Onde tá?",
+    "keywords": [
+      "どこいんの"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 602,
+    "japanese": "家にいるよ。",
+    "furigana": "いえに いるよ。",
+    "translation": "Estou em casa.",
+    "keywords": [
+      "家",
+      "にいるよ"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 603,
+    "japanese": "図書館にいます。",
+    "furigana": "としょかんに います。",
+    "translation": "Estou na biblioteca.",
+    "keywords": [
+      "にいます",
+      "図書館"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 604,
+    "japanese": "こちらにお入れくださいませ。",
+    "furigana": "こちらに おいれ くださいませ。",
+    "translation": "Por favor, coloque aqui.",
+    "keywords": [
+      "れくださいませ",
+      "入",
+      "こちらにお"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 605,
+    "japanese": "鞄に入れる。",
+    "furigana": "かばんに いれる。",
+    "translation": "Coloco na bolsa.",
+    "keywords": [
+      "れる",
+      "入",
+      "鞄"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 606,
+    "japanese": "入れといて！",
+    "furigana": "いれといて！",
+    "translation": "Coloca aí!",
+    "keywords": [
+      "れといて",
+      "入"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 607,
+    "japanese": "ここに入れようか。",
+    "furigana": "ここに いれようか。",
+    "translation": "Vamos colocar aqui?",
+    "keywords": [
+      "れようか",
+      "入",
+      "ここに"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 608,
+    "japanese": "箱に入れます。",
+    "furigana": "はこに いれます。",
+    "translation": "Coloco na caixa.",
+    "keywords": [
+      "れます",
+      "入",
+      "箱"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 609,
+    "japanese": "お色は何がよろしゅうございますか。",
+    "furigana": "おいろは なにが よろしゅう ございますか。",
+    "translation": "Que cor prefere?",
+    "keywords": [
+      "色",
+      "がよろしゅうございますか",
+      "何"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 610,
+    "japanese": "何色がいい。",
+    "furigana": "なにいろが いい。",
+    "translation": "Que cor é boa?",
+    "keywords": [
+      "何色",
+      "がいい"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 611,
+    "japanese": "何色がいいの？",
+    "furigana": "なにいろが いいの？",
+    "translation": "Que cor você quer?",
+    "keywords": [
+      "何色",
+      "がいいの"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 612,
+    "japanese": "青い色が好きだよ。",
+    "furigana": "あおい いろが すきだよ。",
+    "translation": "Gosto da cor azul.",
+    "keywords": [
+      "色",
+      "青",
+      "きだよ",
+      "好"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 613,
+    "japanese": "この色が好きです。",
+    "furigana": "この いろが すきです。",
+    "translation": "Gosto desta cor.",
+    "keywords": [
+      "色",
+      "きです",
+      "この",
+      "好"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  },
+  {
+    "id": 614,
+    "japanese": "色々とお世話になりました。",
+    "furigana": "いろいろと おせわに なりました。",
+    "translation": "Agradeço por toda a ajuda.",
+    "keywords": [
+      "色",
+      "とお",
+      "になりました",
+      "世話"
+    ],
+    "level": "N5",
+    "formality": "muito formal"
+  },
+  {
+    "id": 615,
+    "japanese": "色々あるな。",
+    "furigana": "いろいろ あるな。",
+    "translation": "Tem várias coisas.",
+    "keywords": [
+      "色",
+      "あるな"
+    ],
+    "level": "N5",
+    "formality": "casual"
+  },
+  {
+    "id": 616,
+    "japanese": "色々ありすぎ！",
+    "furigana": "いろいろ ありすぎ！",
+    "translation": "Tem coisa demais!",
+    "keywords": [
+      "色",
+      "ありすぎ"
+    ],
+    "level": "N5",
+    "formality": "muito informal"
+  },
+  {
+    "id": 617,
+    "japanese": "色々試してみようよ。",
+    "furigana": "いろいろ ためして みようよ。",
+    "translation": "Vamos experimentar várias coisas.",
+    "keywords": [
+      "色",
+      "試",
+      "してみようよ"
+    ],
+    "level": "N5",
+    "formality": "informal"
+  },
+  {
+    "id": 618,
+    "japanese": "色々な種類があります。",
+    "furigana": "いろいろな しゅるいが あります。",
+    "translation": "Há vários tipos.",
+    "keywords": [
+      "色",
+      "があります",
+      "種類"
+    ],
+    "level": "N5",
+    "formality": "formal"
+  }
+]
